@@ -13,7 +13,7 @@
     <div class="logo">
         <table border="1">
             <tr>
-                <th><img width="110" height="117" src="Images/cropped-tweb.png" alt="LogoEmpresa"></th>
+                <th><img width="150" height="102" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png" class="custom-logo" alt="Citas Medicas" decoding="async" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png 1x, https://citasmedicasmaryury.com/wp-content/uploads/2018/10/logo@2x-free-img.png 2x" sizes="(max-width: 150px) 100vw, 150px"></th>
                 <th><h2 >Restaurante</h2><br>
                     Las mejores carnes y atenion excelente</th>
             </tr>
@@ -35,7 +35,15 @@
 <section>
         <div class="titulo">
         <img width="1100" height="500" src="IMG/carne1.gif" alt="">
-        </div>
+         <h3><center>Las mejores en EL Salvador</center></h3></div>
+
+           	 <div>
+           		<h2 ><br>FILETES BARBACOA Y MAS...</h2>		</div>
+           			</div>
+                  <span>Reservacion</span>
+
+           						<span class="elementor-button-text">Explore Menu</span>
+
 
         <div class="contenedor0">
             <div>
@@ -44,13 +52,13 @@
                     <tr>
                         <th><H2>El lugar para disfrutar</H2>
                             <p>Nuestra deliciosa historia</p>
-                            <p>La gente decía  “Haces cosas muy raras”y yo les contestaba “Me dedico a la creatividad”. A veces hemos querido explicar demasiado la cocina de vanguardia cuando quizá es muy difícil de explicar. Hay que vivirla</p><p>las enfermedades que afectan a los animales domésticos,</p><br><br>
+                            <p>La gente decia  *Haces cosas muy raras* y yo les contestaba *Me dedico a la creatividad*. A veces hemos querido explicar demasiado la cocina de vanguardia cuando quiza es muy difícil de explicar. Hay que vivirla</p><br><br>
                             <p> Nos dedicamos a la cocina, al sabor de un buen día reflejado en tu comida…</p>
-                           <br>
-                            <button class="btingresar" disabled="disabled"><a href="Registro.html"  style="text-decoration:none">RESERVACIÓN</a></button>
+                            <br>
+                            <button class="btingresar" disabled="disabled"><a href="Registro.html"  style="text-decoration:none">RESERVACION</a></button>
                         </th>
-                    <th><img width="210" height="350" src="IMG/carne1.gif" alt=""></th>
-                    <th><img width="210" height="350" src="IMG/carne1.gif" alt=""></th>
+                    <th><img decoding="async" fetchpriority="high" width="300" height="600" src="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1.jpg" class="attachment-full size-full wp-image-451" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1.jpg 300w, https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1-150x300.jpg 150w" sizes="(max-width: 300px) 100vw, 300px"></th>
+                    <th><img decoding="async" loading="lazy" width="300" height="600" src="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2.jpg" class="attachment-full size-full wp-image-454" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2.jpg 300w, https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2-150x300.jpg 150w" sizes="(max-width: 300px) 100vw, 300px"></th>
 
                 </tr>
                 </table>
