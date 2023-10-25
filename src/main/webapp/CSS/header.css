@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    background-color: #f7fbfb;
+    height: 130px;
+}
+.logo{
+    display: flex;
+}
+.menuheader{
+    display: flex; 
+    gap: 20px; 
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    margin-left: auto;
+}
+.menu{
+    background-color: #1f2833;
+    color: white;
+    border-spacing: 15px;
+    margin-left: auto;
+}
+.enlaceheader:link{
+    color: white;
+}
+.enlaceheader:visited{
+    color: white;
+}
+.enlaceheader:hover{
+    font-size: 1.5em;
+}

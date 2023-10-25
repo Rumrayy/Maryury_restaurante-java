@@ -1,0 +1,124 @@
+.titulo{
+    margin: auto;
+    font-size: 60px;
+    width: auto ;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+.contenedor0{
+    background-color: rgb(244, 249, 249);
+    display: flex;
+    justify-content: center;
+    width: 900px ;
+    height: 600px;
+    margin: auto;
+}
+.btingresar{
+    color: black;
+    background-color: aquamarine;
+    width:100px; 
+    height:25px
+}
+.bningresar:link{
+    color: black;
+}
+.bningresar:visited{
+    color: black;
+}
+.imagen1{ 
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    margin-left: auto;   
+}
+.imagen2{ 
+    margin: auto;
+    width: 900px ;
+    height: 800px;
+ }
+.titulo2{
+    margin: auto;
+   text-align: center;
+}
+.contenedor1{
+    display: flex;
+    justify-content: center;
+    height: 390px;
+    margin: 0 235px;    
+}
+
+.medicina{
+    margin: 0 45px;
+}
+.prevencion{
+    margin: 0 45px;
+}
+.cuidados{
+    margin: 0 45px;
+}
+.contenedor2{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    margin: 0px 235px;    
+}
+.reunion{
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    margin-left: auto;      
+}
+.color{
+    background-color: rgb(49, 125, 125);
+    justify-content: center;
+    width: 500px ;
+    height: 600px;
+    margin: auto;
+}
+.contenedor3{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    margin: 0 235px;    
+}
+
+.doctora1{
+    margin: 0 20px;
+ 
+}
+.ramos{
+    width: 200px;
+    height: 200px;
+    background-image: url(../Images/20230414_2002461-scaled.jpg);
+    background-size:84%;
+    border-radius: 50%;
+    margin: auto auto;
+}
+.doctora2{
+    margin: 0 20px;
+}
+.guzman{
+    width: 200px;
+    height: 200px;
+    background-image: url(../Images/vero.jpg);
+    background-size:84%;
+    border-radius: 50%;
+    margin: auto auto;
+}
+.doctora3{
+    margin: 0 20px;
+}
+.rodriguez{
+    width: 200px;
+    height: 200px;
+    background-image: url(../Images/paty.jpg);
+    background-size:84%;
+    border-radius: 50%;
+    margin: auto auto;
+}
