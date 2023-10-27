@@ -71,10 +71,10 @@
                   <br> <br></br>
                   </br>
                     <div class="imagen2">
-                       <table class="fooder1" border="1">
+                       <table class="fooder1">
                        <tr><td>
-                           <div><div><h1> <font size=8>Delicias Destacadas</font></h1></div>
-                           <p>Recién salido de la parrilla</p><div class="uagb-ifb-button-wrapper wp-block-button"></td>
+                           <div><div><h1><center> <font size=8>Delicias Destacadas</font></h1></div></center>
+                           <p>Recien salido de la parrilla</p><div class="uagb-ifb-button-wrapper wp-block-button"></td>
                        </tr>
                       <tr><td><img src="IMG/filete.avif" alt=""  width="1024" height="683" ></p>
                    </td></tr>
@@ -109,6 +109,7 @@
                    </table>
                </div>
            </div>
+
            <div class="contenedor2">
                <div>
                    <table  class=" reunion">
@@ -123,6 +124,7 @@
                            <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img.png" class="attachment-full size-full wp-image-1142" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
 
                        </th>
+
                        <th>
                            <h1>Nuggets de Pollo con Patata</h1>
                            <p>$30</p>
@@ -191,20 +193,15 @@
           <center>
            <img decoding="async" loading="lazy" width="100" height="100" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/bbq-free-img.png" class="attachment-full size-full wp-image-1159" alt="">															</div>
 
-           		</section>
-                       <center>
-           			<h4>Especial: BEBIDAS</h4>
+                   <center><div class="footer">
+           			<h4><font size=5>Especial: BEBIDAS</h4></font>
            				</div>
-
-           			<h2 >Hora Feliz<br>+18</h2>
+           <footer class="texto-dorado" <h1 ><font size=8>Hora Feliz<br>+18</h1></font> </footer>
 
            					<p>Todos los Viernes, de 4 p.m. a 10 p.m.</p>
-
+                             <br></br>
                        </center>
-
-
-           		</section>
-
+                </div>
            </footer>
            </center>
        <br><br></br>
@@ -219,9 +216,10 @@
            							<p>Ven y disfruta de nuestros servicios, nuestra comida refleja nuestros deseos, y nosotras te deseamos lo mejor y nuestro local te brinda un espacio apto para pasar con familia y amigos.</p><p>Una vida sin compañia y es solitaria no es vida</p>						</div>
            				</div>
             </center>
+       <div><br></div>
 
-
-   <div><center><h2>Good Chef</h2>
+  <footer class="fondo-dorado" border="1">
+   <div><center><h2><font size=7>Good Chef</h2></font>
      <center> <p>Conoce mas de nosotros en nuestras redes sociales, no te olvides de seguirnos…</p>
      <p>Reserva tu mesa, vive tu experiencia, danos tu opinion…</p>
       </div>
@@ -232,8 +230,9 @@
        <div><div ><p>Comunicate con nosotros : 123 456 7890</p></div></div>
 			</div>
 
-				<svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
-				<svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"></path></svg>
+				<a href="https://www.facebook.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
+				<a href="https://web.whatsapp.com/"><img width="40" height="35" src="IMG/whatsapp.png" alt="WhatsApp" >
+				<a href="https://www.instagram.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"></path></svg>
 						</div>
 
 

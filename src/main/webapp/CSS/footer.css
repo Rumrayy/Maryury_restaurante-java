@@ -22,6 +22,7 @@
 .footer {
     min-height: 70px;
     background-color: #261e1e;
+    color: #FFFFFF;
     width: 100%;
     position: relative;
     bottom: 50;   
@@ -35,4 +36,15 @@
 }
 .enlacefooter:hover{
     color: blue;
+}
+.texto-blanco {
+     color: #FFFFFF;
+     background-color: #261e1e;
+}
+.texto-dorado {
+      color: #FFD347;
+      margin: 30px;
+}
+.fondo-dorado {
+     background-color: #FFD347;
 }
