@@ -1,0 +1,18 @@
+.contenedor1{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    margin: 0 235px;
+    padding: 25;
+}
+.formulario{
+    margin: auto 50px;
+    text-align: center;
+}
+.btinicio:link{
+    color: black;
+}
+.btinicio:visited{
+    color: black;
+}
