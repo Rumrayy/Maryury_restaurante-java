@@ -22,11 +22,13 @@
     <div class="menuheader">
         <table class="menu" border="1" cellpadding="5">
             <tr>
-                <th><a href="index.html" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
-                <th><a href="Menu.html"class="enlaceheader"style="text-decoration:none">Menu</a></th>
-                <th><a href="Contacto.html"class="enlaceheader"style="text-decoration:none">Contacto</a></th>
-                <th><a href="Registro.html"class="enlaceheader"style="text-decoration:none">Registro</a></th>
-                <th><a href="iniciarsesion.html" class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
+                <th><a href="index.jsp" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
+                <th><a href="menu.jsp"class="enlaceheader"style="text-decoration:none">Menu</a></th>
+                <th><a href="contacto.jsp"class="enlaceheader"style="text-decoration:none">Contacto</a></th>
+                <th><a href="registro.jsp"class="enlaceheader"style="text-decoration:none">Registro</a></th>
+                <th><a href="iniciarsesion.jsp" class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
+                <th><a href="reservarmesa.jsp" class="enlaceheader"style="text-decoration:none">Resevar mesa</a></th>
+                <th><a href="https://citasmedicasmaryury.com/wp-admin/admin.php?page=simply-schedule-appointments#/ssa/appointments" class="enlaceheader"style="text-decoration:none">RESERVACIONES</a></th>
             </tr>
         </table>
     </div>

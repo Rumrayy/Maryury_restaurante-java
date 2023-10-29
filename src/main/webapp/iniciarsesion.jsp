@@ -10,28 +10,31 @@
 </head>
 <body>
 
-    <header>
-        <div class="logo">
-                <table >
-                    <tr>
-                        <th><img width="150" height="102" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png" class="custom-logo" alt="Citas Medicas" decoding="async" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png 1x, https://citasmedicasmaryury.com/wp-content/uploads/2018/10/logo@2x-free-img.png 2x" sizes="(max-width: 150px) 100vw, 150px"></th>
-                        <th><h2 >Restaurante</h2><br>
-                            Las mejores carnes y atenion excelente</th>
-                    </tr>
-                </table>
-                </div>
-            <div class="menuheader">
-                <table class="menu"  cellpadding="5">
-                    <tr>
-                        <th><a href="index.jsp" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
-                        <th><a href="servicios.html"class="enlaceheader"style="text-decoration:none">Servicios</a></th>
-                        <th><a href="Contacto.html"class="enlaceheader"style="text-decoration:none">Contacto</a></th>
-                        <th><a href="Registro.html"class="enlaceheader"style="text-decoration:none">Registro</a></th>
-                        <th><a href="iniciarsesion.jsp"class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
-                    </tr>
-                </table>
-            </div>
-    </header>
+ <header>
+     <div class="logo">
+         <table>
+             <tr>
+                 <th><img width="150" height="102" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png" class="custom-logo" alt="Citas Medicas" decoding="async" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png 1x, https://citasmedicasmaryury.com/wp-content/uploads/2018/10/logo@2x-free-img.png 2x" sizes="(max-width: 150px) 100vw, 150px"></th>
+                 <th><h2 >Restaurante</h2><br>
+                     Las mejores carnes y atenion excelente</th>
+             </tr>
+         </table>
+         </div>
+     <div class="menuheader">
+         <table class="menu" border="1" cellpadding="5">
+             <tr>
+                 <th><a href="index.jsp" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
+                 <th><a href="menu.jsp"class="enlaceheader"style="text-decoration:none">Menu</a></th>
+                 <th><a href="contacto.jsp"class="enlaceheader"style="text-decoration:none">Contacto</a></th>
+                 <th><a href="registro.jsp"class="enlaceheader"style="text-decoration:none">Registro</a></th>
+                 <th><a href="iniciarsesion.jsp" class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
+                 <th><a href="reservarmesa.jsp" class="enlaceheader"style="text-decoration:none">Resevar mesa</a></th>
+                 <th><a href="https://citasmedicasmaryury.com/wp-admin/admin.php?page=simply-schedule-appointments#/ssa/appointments" class="enlaceheader"style="text-decoration:none">RESERVACIONES</a></th>
+             </tr>
+         </table>
+     </div>
+ </header>
+
 
     <br><br><br>
 

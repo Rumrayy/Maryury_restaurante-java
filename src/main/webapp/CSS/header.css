@@ -1,16 +1,16 @@
 header{
     display: flex;
     background-color: #f7fbfb;
-    height: 130px;
+    height: 95px;
 }
 .logo{
     display: flex;
 }
 .menuheader{
     display: flex; 
-    gap: 20px; 
+    gap: 10px;
     align-items: center;
-    padding: 10px;
+    padding: 5px;
     height: 100px;
     margin-left: auto;
 }
