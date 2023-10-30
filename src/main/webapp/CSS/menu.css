@@ -1,0 +1,27 @@
+.titulo{
+    height: 400px;
+    color: #FFFFFF;
+    font-size: 70px;
+
+    display: flex;
+    justify-content: center;
+    background-image: url(https://citasmedicasmaryury.com/wp-content/uploads/2019/12/Barbecue-dish-item-3.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}
+.frase{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.imagen1{
+background-image: url(https://citasmedicasmaryury.com/wp-content/uploads/2018/10/banner1-free-img.jpg);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    height: 400px;
+    color: #FFFFFF;
+    font-size: 28px;
+    text-align: center;
+
+}

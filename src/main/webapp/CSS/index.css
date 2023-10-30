@@ -89,42 +89,21 @@
     height: 400px;
     margin: 0 235px;    
 }
-
-.doctora1{
-    margin: 0 20px;
- 
-}
-.ramos{
-    width: 200px;
-    height: 200px;
-    background-image: url(../Images/20230414_2002461-scaled.jpg);
-    background-size:84%;
-    border-radius: 50%;
-    margin: auto auto;
-}
-.doctora2{
-    margin: 0 20px;
-}
-.guzman{
-    width: 200px;
-    height: 200px;
-    background-image: url(../Images/vero.jpg);
-    background-size:84%;
-    border-radius: 50%;
-    margin: auto auto;
-}
-.doctora3{
-    margin: 0 20px;
-}
-.rodriguez{
-    width: 200px;
-    height: 200px;
-    background-image: url(../Images/paty.jpg);
-    background-size:84%;
-    border-radius: 50%;
-    margin: auto auto;
-}
 .title{
    color: #FFD347;
    margin: 30px;
+}
+.foot{
+    min-height: 400px;
+    color: #ffffff;
+    background-image: linear-gradient(to right,rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://citasmedicasmaryury.com/wp-content/uploads/2019/12/hotel-diner-dining.jpg);
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.iconos{
+    background-color:#ffffff;
+    width: 0 3px;
+    height: 0 3px;
 }

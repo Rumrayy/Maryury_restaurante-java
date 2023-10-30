@@ -1,10 +1,12 @@
 header{
     display: flex;
-    background-color: #f7fbfb;
-    height: 95px;
+    background-color: #261e1e;
+    height: 135px;
 }
 .logo{
     display: flex;
+    background-color: #261e1e;
+    color: #FFFFFF;
 }
 .menuheader{
     display: flex; 
@@ -13,9 +15,10 @@ header{
     padding: 5px;
     height: 100px;
     margin-left: auto;
+    background-color: #261e1e;
 }
 .menu{
-    background-color: #1f2833;
+    background-color: #261e1e;
     color: white;
     border-spacing: 15px;
     margin-left: auto;

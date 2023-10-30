@@ -1,201 +1,28 @@
-<html lang="es"><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-	 <link rel="profile" href="https://gmpg.org/xfn/11">
-	 <link rel="stylesheet" href="CSS/header.css">
-     <link rel="stylesheet" href="CSS/index.css">
-     <link rel="stylesheet" href="CSS/footer.css">
-
-
-
-	 <title>Menu – Citas Medicas</title>
-<script src="https://connect.facebook.net/es_ES/sdk.js?hash=0c0e6e174aec6f303361bde02cb6b8aa" async="" crossorigin="anonymous"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/es_ES/sdk.js"></script><script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":false,"popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"ajaxUrl":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin-ajax.php","sys":{"child_theme":false,"theme":"astra","theme_ver":"4.1.6","use_builder":false,"builder_ver":"-","plugin_pfd":"Popups for Divi, v3.0.5","wp_ver":"6.3.2","php_ver":"8.2.11"}};var divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return i[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
-</script>	<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
-		<script type="text/javascript">var theChampDefaultLang = 'es_ES', theChampCloseIconPath = 'https://citasmedicasmaryury.com/wp-content/plugins/super-socializer/images/close.png';</script>
-		<script>var theChampSiteUrl = 'https://citasmedicasmaryury.com', theChampVerified = 0, theChampEmailPopup = 0, heateorSsMoreSharePopupSearchText = 'Search';</script>
-			<script> var theChampFBKey = '1666982480447349', theChampFBLang = 'es_ES', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
-						<script type="text/javascript">var theChampFBCommentUrl = 'https://citasmedicasmaryury.com/menu/'; var theChampFBCommentColor = ''; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = ''; var theChampCommentingTabs = "wordpress,facebook,disqus", theChampGpCommentsUrl = 'https://citasmedicasmaryury.com/menu/', theChampDisqusShortname = '', theChampScEnabledTabs = 'wordpress,fb', theChampScLabel = 'Leave a reply', theChampScTabLabels = {"wordpress":"Default Comments (0)","fb":"Facebook Comments","disqus":"Disqus Comments"}, theChampGpCommentsWidth = 0, theChampCommentingId = 'respond'</script>
-						<script> var theChampSharingAjaxUrl = 'https://citasmedicasmaryury.com/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'fb-messenger://share/?link=%encoded_post_url%',heateorSsWhatsappShareAPI = 'api', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'https://citasmedicasmaryury.com/wp-content/plugins/super-socializer/images/logo.png', theChampSaveSharesLocally = 0, theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 1, heateorSsCopyLinkMessage = "Link copied.";
-		var heateorSsHorSharingShortUrl = "https://citasmedicasmaryury.com/menu/";var heateorSsVerticalSharingShortUrl = "https://citasmedicasmaryury.com/menu/";		</script>
-			<style type="text/css">
-						.the_champ_button_instagram span.the_champ_svg,a.the_champ_instagram span.the_champ_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
-					.the_champ_horizontal_sharing .the_champ_svg,.heateor_ss_standard_follow_icons_container .the_champ_svg{
-					color: #fff;
-				border-width: 0px;
-		border-style: solid;
-		border-color: transparent;
-	}
-		.the_champ_horizontal_sharing .theChampTCBackground{
-		color:#666;
-	}
-		.the_champ_horizontal_sharing span.the_champ_svg:hover,.heateor_ss_standard_follow_icons_container span.the_champ_svg:hover{
-				border-color: transparent;
-	}
-		.the_champ_vertical_sharing span.the_champ_svg,.heateor_ss_floating_follow_icons_container span.the_champ_svg{
-					color: #fff;
-				border-width: 0px;
-		border-style: solid;
-		border-color: transparent;
-	}
-		.the_champ_vertical_sharing .theChampTCBackground{
-		color:#666;
-	}
-		.the_champ_vertical_sharing span.the_champ_svg:hover,.heateor_ss_floating_follow_icons_container span.the_champ_svg:hover{
-						border-color: transparent;
-		}
-	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}div.heateor_ss_mobile_footer{display:none;}@media screen and (max-width:783px){div.the_champ_bottom_sharing div.the_champ_sharing_ul .theChampTCBackground{width:100%!important;background-color:white}div.the_champ_bottom_sharing{width:100%!important;left:0!important;}div.the_champ_bottom_sharing a{width:14.285714285714% !important;margin:0!important;padding:0!important;}div.the_champ_bottom_sharing .the_champ_svg{width:100%!important;}div.the_champ_bottom_sharing div.theChampTotalShareCount{font-size:.7em!important;line-height:28px!important}div.the_champ_bottom_sharing div.theChampTotalShareText{font-size:.5em!important;line-height:0px!important}div.heateor_ss_mobile_footer{display:block;height:40px;}.the_champ_bottom_sharing{padding:0!important;display:block!important;width: auto!important;bottom:-2px!important;top: auto!important;}.the_champ_bottom_sharing .the_champ_square_count{line-height: inherit;}.the_champ_bottom_sharing .theChampSharingArrow{display:none;}.the_champ_bottom_sharing .theChampTCBackground{margin-right: 1.1em !important}}</style>
-	<meta name="robots" content="max-image-preview:large">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="alternate" type="application/rss+xml" title="Citas Medicas » Feed" href="https://citasmedicasmaryury.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Citas Medicas » Feed de los comentarios" href="https://citasmedicasmaryury.com/comments/feed/">
-<script>
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/citasmedicasmaryury.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
-/*! This file is auto-generated */
-!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-</script>
-<style>
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel="stylesheet" id="dashicons-css" href="https://citasmedicasmaryury.com/wp-includes/css/dashicons.min.css?ver=6.3.2" media="all">
-<link rel="stylesheet" id="admin-bar-css" href="https://citasmedicasmaryury.com/wp-includes/css/admin-bar.min.css?ver=6.3.2" media="all">
-<link rel="stylesheet" id="astra-theme-css-css" href="https://citasmedicasmaryury.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.1.6" media="all">
-<style id="astra-theme-css-inline-css">
-.ast-no-sidebar .entry-content .alignfull {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-no-sidebar .entry-content .alignwide {margin-left: calc(-41vw + 50%);margin-right: calc(-41vw + 50%);max-width: unset;width: unset;}.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-no-sidebar .entry-content .wp-block-column .alignwide{width: 100%;margin-left: auto;margin-right: auto;}.wp-block-gallery,.blocks-gallery-grid {margin: 0;}.wp-block-separator {max-width: 100px;}.wp-block-separator.is-style-wide,.wp-block-separator.is-style-dots {max-width: none;}.entry-content .has-2-columns .wp-block-column:first-child {padding-right: 10px;}.entry-content .has-2-columns .wp-block-column:last-child {padding-left: 10px;}@media (max-width: 782px) {.entry-content .wp-block-columns .wp-block-column {flex-basis: 100%;}.entry-content .has-2-columns .wp-block-column:first-child {padding-right: 0;}.entry-content .has-2-columns .wp-block-column:last-child {padding-left: 0;}}body .entry-content .wp-block-latest-posts {margin-left: 0;}body .entry-content .wp-block-latest-posts li {list-style: none;}.ast-no-sidebar .ast-container .entry-content .wp-block-latest-posts {margin-left: 0;}.ast-header-break-point .entry-content .alignwide {margin-left: auto;margin-right: auto;}.entry-content .blocks-gallery-item img {margin-bottom: auto;}.wp-block-pullquote {border-top: 4px solid #555d66;border-bottom: 4px solid #555d66;color: #40464d;}:root{--ast-container-default-xlg-padding:6.67em;--ast-container-default-lg-padding:5.67em;--ast-container-default-slg-padding:4.34em;--ast-container-default-md-padding:3.34em;--ast-container-default-sm-padding:6.67em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.4em;--ast-code-block-background:#EEEEEE;--ast-comment-inputs-background:#FAFAFA;}html{font-size:93.75%;}a,.page-title{color:var(--ast-global-color-1);}a:hover,a:focus{color:var(--ast-global-color-1);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:'Poppins',sans-serif;font-weight:400;font-size:15px;font-size:1rem;line-height:1.6em;}blockquote{color:var(--ast-global-color-3);}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:'Poppins',sans-serif;font-weight:400;}.site-title{font-size:35px;font-size:2.3333333333333rem;display:none;}header .custom-logo-link img{max-width:135px;}.astra-logo-svg{width:135px;}.site-header .site-description{font-size:15px;font-size:1rem;display:none;}.entry-title{font-size:30px;font-size:2rem;}h1,.entry-content h1{font-size:100px;font-size:6.6666666666667rem;font-weight:400;font-family:'Abril Fatface',display;}h2,.entry-content h2{font-size:45px;font-size:3rem;font-weight:400;font-family:'Abril Fatface',display;}h3,.entry-content h3{font-size:30px;font-size:2rem;font-weight:400;font-family:'Abril Fatface',display;line-height:1.39em;}h4,.entry-content h4{font-size:24px;font-size:1.6rem;font-family:'Poppins',sans-serif;}h5,.entry-content h5{font-size:20px;font-size:1.3333333333333rem;font-family:'Poppins',sans-serif;}h6,.entry-content h6{font-size:17px;font-size:1.1333333333333rem;font-family:'Poppins',sans-serif;}::selection{background-color:var(--ast-global-color-0);color:#000000;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-3);}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#000000;border-color:var(--ast-global-color-1);background-color:var(--ast-global-color-1);}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:var(--ast-global-color-1);}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-1);background-color:var(--ast-global-color-1);box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:var(--ast-global-color-1);}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-1);}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:var(--ast-global-color-1);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-1);}.secondary .calendar_wrap #today,.ast-progress-val span{background:var(--ast-global-color-1);}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.calendar_wrap #today > a{color:#000000;}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-1);}.widget-title{font-size:21px;font-size:1.4rem;color:var(--ast-global-color-3);}a:focus-visible,.ast-menu-toggle:focus-visible,.site .skip-link:focus-visible,.wp-block-loginout input:focus-visible,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,.ast-header-navigation-arrow:focus-visible{outline-style:dotted;outline-color:inherit;outline-width:thin;border-color:transparent;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus,.wp-block-search__input:focus,[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,.woocommerce-ordering select.orderby:focus,#ast-scroll-top:focus,.woocommerce a.add_to_cart_button:focus,.woocommerce .button.single_add_to_cart_button:focus{border-style:dotted;border-color:inherit;border-width:thin;outline-color:transparent;}.site-logo-img img{ transition:all 0.2s linear;}.ast-page-builder-template .hentry {margin: 0;}.ast-page-builder-template .site-content > .ast-container {max-width: 100%;padding: 0;}.ast-page-builder-template .site-content #primary {padding: 0;margin: 0;}.ast-page-builder-template .no-results {text-align: center;margin: 4em auto;}.ast-page-builder-template .ast-pagination {padding: 2em;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top: 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top: 0;margin-bottom: 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom: 0;}.ast-page-builder-template.single .post-navigation {padding-bottom: 2em;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template .entry-header {margin-top: 4em;margin-left: auto;margin-right: auto;padding-left: 20px;padding-right: 20px;}.single.ast-page-builder-template .entry-header {padding-left: 20px;padding-right: 20px;}.ast-page-builder-template .ast-archive-description {margin: 4em auto 0;padding-left: 20px;padding-right: 20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide {margin-left: 0;margin-right: 0;}@media (max-width:921px){#ast-desktop-header{display:none;}}@media (min-width:921px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:782px){.entry-content .wp-block-columns .wp-block-column{margin-left:0px;}}.wp-block-image.aligncenter{margin-left:auto;margin-right:auto;}.wp-block-table.aligncenter{margin-left:auto;margin-right:auto;}@media (max-width:921px){.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}.elementor-button-wrapper .elementor-button{border-style:solid;text-decoration:none;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-top-left-radius:50px;border-top-right-radius:50px;border-bottom-right-radius:50px;border-bottom-left-radius:50px;padding-top:17px;padding-right:35px;padding-bottom:17px;padding-left:35px;}.elementor-button-wrapper .elementor-button{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:var(--ast-global-color-5);background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.wp-block-button .wp-block-button__link ,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:var(--ast-global-color-5);}.elementor-button-wrapper .elementor-button{font-size:15px;font-size:1rem;line-height:1em;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:15px;font-size:1rem;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:var(--ast-global-color-5);background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.elementor-widget-heading h3.elementor-heading-title{line-height:1.39em;}.wp-block-button .wp-block-button__link{border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);color:var(--ast-global-color-5);font-family:inherit;font-weight:inherit;line-height:1em;font-size:15px;font-size:1rem;border-top-left-radius:50px;border-top-right-radius:50px;border-bottom-right-radius:50px;border-bottom-left-radius:50px;padding-top:17px;padding-right:35px;padding-bottom:17px;padding-left:35px;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:var(--ast-global-color-5);border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);padding-top:17px;padding-right:35px;padding-bottom:17px;padding-left:35px;font-family:inherit;font-weight:inherit;font-size:15px;font-size:1rem;line-height:1em;border-top-left-radius:50px;border-top-right-radius:50px;border-bottom-right-radius:50px;border-bottom-left-radius:50px;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:var(--ast-global-color-5);background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}}body,.ast-separate-container{background-color:var(--ast-global-color-4);;background-image:none;;}.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -6.67em;margin-right: -6.67em;width: auto;}@media (max-width: 1200px) {.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -2.4em;margin-right: -2.4em;}}@media (max-width: 768px) {.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -2.14em;margin-right: -2.14em;}}@media (max-width: 544px) {.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -1em;margin-right: -1em;}}.ast-no-sidebar.ast-separate-container .entry-content .alignwide {margin-left: -20px;margin-right: -20px;}.ast-no-sidebar.ast-separate-container .entry-content .wp-block-column .alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-column .alignwide {margin-left: auto;margin-right: auto;width: 100%;}@media (max-width:921px){.site-title{display:none;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:60px;}h2,.entry-content h2{font-size:40px;}h3,.entry-content h3{font-size:28px;}h4,.entry-content h4{font-size:25px;font-size:1.6666666666667rem;}h5,.entry-content h5{font-size:21px;font-size:1.4rem;}h6,.entry-content h6{font-size:17px;font-size:1.1333333333333rem;}.astra-logo-svg{width:150px;}header .custom-logo-link img,.ast-header-break-point .site-logo-img .custom-mobile-logo-link img{max-width:150px;}body,.ast-separate-container{background-color:var(--ast-global-color-4);;background-image:none;;}}@media (max-width:544px){.site-title{display:none;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:40px;}h2,.entry-content h2{font-size:30px;}h3,.entry-content h3{font-size:22px;}h4,.entry-content h4{font-size:22px;font-size:1.4666666666667rem;}header .custom-logo-link img,.ast-header-break-point .site-branding img,.ast-header-break-point .custom-logo-link img{max-width:120px;}.astra-logo-svg{width:120px;}.ast-header-break-point .site-logo-img .custom-mobile-logo-link img{max-width:120px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(https://citasmedicasmaryury.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://citasmedicasmaryury.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://citasmedicasmaryury.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-2px;}}.footer-widget-area[data-section^="section-fb-html-"] .ast-builder-html-element{text-align:center;}.astra-icon-down_arrow::after {content: "\e900";font-family: Astra;}.astra-icon-close::after {content: "\e5cd";font-family: Astra;}.astra-icon-drag_handle::after {content: "\e25d";font-family: Astra;}.astra-icon-format_align_justify::after {content: "\e235";font-family: Astra;}.astra-icon-menu::after {content: "\e5d2";font-family: Astra;}.astra-icon-reorder::after {content: "\e8fe";font-family: Astra;}.astra-icon-search::after {content: "\e8b6";font-family: Astra;}.astra-icon-zoom_in::after {content: "\e56b";font-family: Astra;}.astra-icon-check-circle::after {content: "\e901";font-family: Astra;}.astra-icon-shopping-cart::after {content: "\f07a";font-family: Astra;}.astra-icon-shopping-bag::after {content: "\f290";font-family: Astra;}.astra-icon-shopping-basket::after {content: "\f291";font-family: Astra;}.astra-icon-circle-o::after {content: "\e903";font-family: Astra;}.astra-icon-certificate::after {content: "\e902";font-family: Astra;}blockquote {padding: 1.2em;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#db9423;--ast-global-color-1:#ed7a00;--ast-global-color-2:#000000;--ast-global-color-3:#1d1d23;--ast-global-color-4:#f2f2f2;--ast-global-color-5:#ffffff;--ast-global-color-6:#f2f5f7;--ast-global-color-7:#424242;--ast-global-color-8:#000000;}:root {--ast-border-color : #dddddd;}.ast-single-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-single-entry-banner[data-banner-layout="layout-1"] {max-width: 1200px;background: inherit;padding: 20px 0;}.ast-single-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-single-entry-banner + .site-content .entry-header {margin-bottom: 0;}header.entry-header .entry-title{font-size:30px;font-size:2rem;}header.entry-header > *:not(:last-child){margin-bottom:10px;}.ast-archive-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-archive-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-archive-entry-banner[data-banner-layout="layout-1"] {background: inherit;padding: 20px 0;text-align: left;}body.archive .ast-archive-description{max-width:1200px;width:100%;text-align:left;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}body.archive .ast-archive-description .ast-archive-title,body.archive .ast-archive-description .ast-archive-title *{font-size:40px;font-size:2.6666666666667rem;}body.archive .ast-archive-description > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){body.archive .ast-archive-description{text-align:left;}}@media (max-width:544px){body.archive .ast-archive-description{text-align:left;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;text-decoration:none;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-2);}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}[data-section*="section-hb-button-"] .menu-link{display:none;}.ast-header-button-1[data-section="section-hb-button-1"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-header-button-1[data-section="section-hb-button-1"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-header-button-1[data-section="section-hb-button-1"]{display:flex;}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit;}.ast-builder-menu-1 .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-1 .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-1 .menu-item:hover > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle,.ast-builder-menu-1 .current-menu-ancestor > .menu-link{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:1px;border-bottom-width:1px;border-right-width:1px;border-left-width:1px;border-color:var(--ast-global-color-0);border-style:solid;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 5px );}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children > .ast-menu-toggle{right:-15px;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}.ast-builder-menu-1 .main-header-menu,.ast-builder-menu-1 .main-header-menu .sub-menu{background-color:var(--ast-global-color-4);;background-image:none;;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:rgba(0,0,0,0);;background-image:none;;min-height:80px;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:flex-start;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-2-equal .ast-builder-grid-row{grid-template-columns:repeat( 2,1fr );}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-2-equal .ast-builder-grid-row{grid-template-columns:repeat( 2,1fr );}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{padding-bottom:2%;}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"]{padding-left:4%;padding-right:4%;}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"]{padding-top:7%;padding-bottom:7%;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-builder-html-element img.alignnone{display:inline-block;}.ast-builder-html-element p:first-child{margin-top:0;}.ast-builder-html-element p:last-child{margin-bottom:0;}.ast-header-break-point .main-header-bar .ast-builder-html-element{line-height:1.85714285714286;}.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{color:#aaaaaa;}.footer-widget-area[data-section="section-fb-html-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="section-fb-html-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="section-fb-html-1"]{display:block;}}.footer-widget-area[data-section="section-fb-html-2"] .ast-builder-html-element{color:#ffffff;font-size:24px;font-size:1.6rem;}.footer-widget-area[data-section="section-fb-html-2"]{margin-top:-5%;}@media (max-width:544px){.footer-widget-area[data-section="section-fb-html-2"] .ast-builder-html-element{font-size:19px;font-size:1.2666666666667rem;}}.footer-widget-area[data-section="section-fb-html-2"]{font-size:24px;font-size:1.6rem;}@media (max-width:544px){.footer-widget-area[data-section="section-fb-html-2"]{font-size:19px;font-size:1.2666666666667rem;}}.footer-widget-area[data-section="section-fb-html-2"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="section-fb-html-2"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="section-fb-html-2"]{display:block;}}.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{text-align:right;}@media (max-width:921px){.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{text-align:right;}}@media (max-width:544px){.footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element{text-align:center;}}.footer-widget-area[data-section="section-fb-html-2"] .ast-builder-html-element{text-align:center;}@media (max-width:921px){.footer-widget-area[data-section="section-fb-html-2"] .ast-builder-html-element{text-align:center;}}@media (max-width:544px){.footer-widget-area[data-section="section-fb-html-2"] .ast-builder-html-element{text-align:center;}}.ast-footer-copyright{text-align:left;}.ast-footer-copyright {color:#aaaaaa;}@media (max-width:921px){.ast-footer-copyright{text-align:left;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.ast-builder-social-element:hover {color: #0274be;}.ast-social-stack-desktop .ast-builder-social-element,.ast-social-stack-tablet .ast-builder-social-element,.ast-social-stack-mobile .ast-builder-social-element {margin-top: 6px;margin-bottom: 6px;}.ast-social-color-type-official .ast-builder-social-element,.ast-social-color-type-official .social-item-label {color: var(--color);background-color: var(--background-color);}.header-social-inner-wrap.ast-social-color-type-official .ast-builder-social-element svg,.footer-social-inner-wrap.ast-social-color-type-official .ast-builder-social-element svg {fill: currentColor;}.social-show-label-true .ast-builder-social-element {width: auto;padding: 0 0.4em;}[data-section^="section-fb-social-icons-"] .footer-social-inner-wrap {text-align: center;}.ast-footer-social-wrap {width: 100%;}.ast-footer-social-wrap .ast-builder-social-element:first-child {margin-left: 0;}.ast-footer-social-wrap .ast-builder-social-element:last-child {margin-right: 0;}.ast-header-social-wrap .ast-builder-social-element:first-child {margin-left: 0;}.ast-header-social-wrap .ast-builder-social-element:last-child {margin-right: 0;}.ast-builder-social-element {line-height: 1;color: #3a3a3a;background: transparent;vertical-align: middle;transition: all 0.01s;margin-left: 6px;margin-right: 6px;justify-content: center;align-items: center;}.ast-builder-social-element {line-height: 1;color: #3a3a3a;background: transparent;vertical-align: middle;transition: all 0.01s;margin-left: 6px;margin-right: 6px;justify-content: center;align-items: center;}.ast-builder-social-element .social-item-label {padding-left: 6px;}.ast-footer-social-1-wrap .ast-builder-social-element{padding:10px;background:var(--ast-global-color-4);}.ast-footer-social-1-wrap .ast-builder-social-element svg{width:18px;height:18px;}.ast-footer-social-1-wrap .ast-social-icon-image-wrap{margin:10px;}.ast-footer-social-1-wrap{margin-top:4%;}.ast-footer-social-1-wrap .ast-social-color-type-custom .ast-builder-social-element:hover{background:var(--ast-global-color-5);}[data-section="section-fb-social-icons-1"] .footer-social-inner-wrap{text-align:center;}@media (max-width:921px){[data-section="section-fb-social-icons-1"] .footer-social-inner-wrap{text-align:center;}}@media (max-width:544px){[data-section="section-fb-social-icons-1"] .footer-social-inner-wrap{text-align:center;}}.ast-builder-layout-element[data-section="section-fb-social-icons-1"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="section-fb-social-icons-1"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="section-fb-social-icons-1"]{display:flex;}}.site-footer{background-image:linear-gradient(to right,rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://citasmedicasmaryury.com/wp-content/uploads/2019/12/hotel-diner-dining.jpg);;background-repeat:repeat;background-position:center center;background-size:cover;background-attachment:scroll;}.site-primary-footer-wrap{padding-top:45px;padding-bottom:45px;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{background-color:;;background-image:none;;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .site-footer-section{align-items:flex-start;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-3-cwide .ast-builder-grid-row{grid-template-columns:1fr 3fr 1fr;}@media (max-width:921px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr;}}@media (max-width:544px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{padding-top:6%;padding-bottom:4%;}@media (max-width:921px){.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{padding-left:10%;padding-right:10%;}}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-primary-footer-wrap[data-section="section-primary-footer-builder"]{display:grid;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{text-align:center;}@media (max-width:921px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{text-align:center;}}@media (max-width:544px){.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{text-align:center;}}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner{color:#ffffff;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .widget-title{color:#ffffff;font-size:45px;font-size:3rem;}.footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}@media (max-width:921px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}@media (max-width:544px){.ast-header-break-point .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"]{display:block;}}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-page .ast-menu-toggle{color:unset !important;background:unset !important;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.elementor-template-full-width .ast-container{display:block;}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*="columns-"] ul.products li.product{width:auto;margin:0;}.elementor-element .woocommerce .woocommerce-result-count{float:none;}}.ast-header-break-point .main-header-bar{border-bottom-width:0px;}@media (min-width:922px){.main-header-bar{border-bottom-width:0px;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.header-main-layout-1 .ast-flex.main-header-container, .header-main-layout-3 .ast-flex.main-header-container{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}.main-header-menu .sub-menu .menu-item.menu-item-has-children > .menu-link:after{position:absolute;right:1em;top:50%;transform:translate(0,-50%) rotate(270deg);}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle::before, .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle::before, .ast-mobile-popup-drawer .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle::before, .ast-header-break-point .ast-mobile-header-wrap .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle::before{font-weight:bold;content:"\e900";font-family:Astra;text-decoration:inherit;display:inline-block;}.ast-header-break-point .main-navigation ul.sub-menu .menu-item .menu-link:before{content:"\e900";font-family:Astra;font-size:.65em;text-decoration:inherit;display:inline-block;transform:translate(0, -2px) rotateZ(270deg);margin-right:5px;}.widget_search .search-form:after{font-family:Astra;font-size:1.2em;font-weight:normal;content:"\e8b6";position:absolute;top:50%;right:15px;transform:translate(0, -50%);}.astra-search-icon::before{content:"\e8b6";font-family:Astra;font-style:normal;font-weight:normal;text-decoration:inherit;text-align:center;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;z-index:3;}.main-header-bar .main-header-bar-navigation .page_item_has_children > a:after, .main-header-bar .main-header-bar-navigation .menu-item-has-children > a:after, .menu-item-has-children .ast-header-navigation-arrow:after{content:"\e900";display:inline-block;font-family:Astra;font-size:.6rem;font-weight:bold;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-left:10px;line-height:normal;}.menu-item-has-children .sub-menu .ast-header-navigation-arrow:after{margin-left:0;}.ast-mobile-popup-drawer .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before{transform:rotateX(180deg);}.ast-header-break-point .main-header-bar-navigation .menu-item-has-children > .menu-link:after{display:none;}.ast-separate-container .blog-layout-1, .ast-separate-container .blog-layout-2, .ast-separate-container .blog-layout-3{background-color:transparent;background-image:none;}.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-5);;background-image:none;;}@media (max-width:921px){.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-5);;background-image:none;;}}.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container  .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title, .ast-narrow-container .site-content{background-color:var(--ast-global-color-5);;background-image:none;;}@media (max-width:921px){.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .comments-area .comment-respond,.ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container  .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .comments-area .comments-title, .ast-narrow-container .site-content{background-color:var(--ast-global-color-5);;background-image:none;;}}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);right: auto;}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:70px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:70px;}@media (max-width:921px){#masthead .ast-mobile-header-wrap .ast-primary-header-bar,#masthead .ast-mobile-header-wrap .ast-below-header-bar{padding-left:20px;padding-right:20px;}}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:0px;border-bottom-color:#eaeaea;border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:0px;border-bottom-color:#eaeaea;border-bottom-style:solid;}}.ast-primary-header-bar{background-color:var(--ast-global-color-5);;background-image:none;;}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-fill{color:var(--ast-global-color-4);border:none;background:var(--ast-global-color-0);border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-right-radius:2px;border-bottom-left-radius:2px;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:var(--ast-global-color-4);}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-4);}:root{--e-global-color-astglobalcolor0:#db9423;--e-global-color-astglobalcolor1:#ed7a00;--e-global-color-astglobalcolor2:#000000;--e-global-color-astglobalcolor3:#1d1d23;--e-global-color-astglobalcolor4:#f2f2f2;--e-global-color-astglobalcolor5:#ffffff;--e-global-color-astglobalcolor6:#f2f5f7;--e-global-color-astglobalcolor7:#424242;--e-global-color-astglobalcolor8:#000000;}
-</style>
-<link rel="stylesheet" id="astra-google-fonts-css" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C%7CAbril+Fatface%3A400&amp;display=fallback&amp;ver=4.1.6" media="all">
-<link rel="stylesheet" id="elementor-icons-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0" media="all">
-<link rel="stylesheet" id="elementor-common-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.16.6" media="all">
-<link rel="stylesheet" id="e-theme-ui-light-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.16.6" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="https://citasmedicasmaryury.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2" media="all">
-<style id="joinchat-button-style-inline-css">
-.wp-block-joinchat-button{border:none!important;text-align:center}.wp-block-joinchat-button figure{display:table;margin:0 auto;padding:0}.wp-block-joinchat-button figcaption{font:normal normal 400 .6em/2em var(--wp--preset--font-family--system-font,sans-serif);margin:0;padding:0}.wp-block-joinchat-button .joinchat-button__qr{background-color:#fff;border:6px solid #25d366;border-radius:30px;box-sizing:content-box;display:block;height:200px;margin:auto;overflow:hidden;padding:10px;width:200px}.wp-block-joinchat-button .joinchat-button__qr canvas,.wp-block-joinchat-button .joinchat-button__qr img{display:block;margin:auto}.wp-block-joinchat-button .joinchat-button__link{align-items:center;background-color:#25d366;border:6px solid #25d366;border-radius:30px;display:inline-flex;flex-flow:row nowrap;justify-content:center;line-height:1.25em;margin:0 auto;text-decoration:none}.wp-block-joinchat-button .joinchat-button__link:before{background:transparent var(--joinchat-ico) no-repeat center;background-size:100%;content:"";display:block;height:1.5em;margin:-.75em .75em -.75em 0;width:1.5em}.wp-block-joinchat-button figure+.joinchat-button__link{margin-top:10px}@media (orientation:landscape)and (min-height:481px),(orientation:portrait)and (min-width:481px){.wp-block-joinchat-button.joinchat-button--qr-only figure+.joinchat-button__link{display:none}}@media (max-width:480px),(orientation:landscape)and (max-height:480px){.wp-block-joinchat-button figure{display:none}}
-
-</style>
-<style id="global-styles-inline-css">
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--ast-global-color-0: var(--ast-global-color-0);--wp--preset--color--ast-global-color-1: var(--ast-global-color-1);--wp--preset--color--ast-global-color-2: var(--ast-global-color-2);--wp--preset--color--ast-global-color-3: var(--ast-global-color-3);--wp--preset--color--ast-global-color-4: var(--ast-global-color-4);--wp--preset--color--ast-global-color-5: var(--ast-global-color-5);--wp--preset--color--ast-global-color-6: var(--ast-global-color-6);--wp--preset--color--ast-global-color-7: var(--ast-global-color-7);--wp--preset--color--ast-global-color-8: var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size); }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 24px; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-color{color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-color{color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-color{color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-color{color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-color{color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-color{color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-color{color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-color{color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-color{color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-background-color{background-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-background-color{background-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-background-color{background-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-background-color{background-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-background-color{background-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-background-color{background-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-background-color{background-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-background-color{background-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-background-color{background-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-border-color{border-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-border-color{border-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-border-color{border-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-border-color{border-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-border-color{border-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-border-color{border-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-border-color{border-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-border-color{border-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-border-color{border-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel="stylesheet" id="if-menu-site-css-css" href="https://citasmedicasmaryury.com/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=6.3.2" media="all">
-<link rel="stylesheet" id="css-divi-area-css" href="https://citasmedicasmaryury.com/wp-content/plugins/popups-for-divi/styles/builder.min.css?ver=3.0.5" media="all">
-<link rel="stylesheet" id="ssa-styles-css" href="https://citasmedicasmaryury.com/wp-content/plugins/simply-schedule-appointments/assets/css/ssa-styles.css?ver=1.6.5.13" media="all">
-<link rel="stylesheet" id="joinchat-css" href="https://citasmedicasmaryury.com/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.0.7" media="all">
-<link rel="stylesheet" id="the_champ_frontend_css-css" href="https://citasmedicasmaryury.com/wp-content/plugins/super-socializer/css/front.css?ver=7.13.56" media="all">
-<link rel="stylesheet" id="wpforms-admin-bar-css" href="https://citasmedicasmaryury.com/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.8.2.3" media="all">
-<style id="wpforms-admin-bar-inline-css">
-#wpadminbar .wpforms-menu-notification-counter, #wpadminbar .wpforms-menu-notification-indicator {
-						background-color: #d63638 !important;
-						color: #ffffff !important;
-					}
-</style>
-<link rel="stylesheet" id="elementor-frontend-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.6" media="all">
-<link rel="stylesheet" id="swiper-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
-<link rel="stylesheet" id="elementor-post-523-css" href="https://citasmedicasmaryury.com/wp-content/uploads/elementor/css/post-523.css?ver=1697749146" media="all">
-<link rel="stylesheet" id="font-awesome-5-all-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.16.6" media="all">
-<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.16.6" media="all">
-<link rel="stylesheet" id="elementor-post-8-css" href="https://citasmedicasmaryury.com/wp-content/uploads/elementor/css/post-8.css?ver=1697934183" media="all">
-<link rel="stylesheet" id="um_fonticons_ii-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_fonticons_fa-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="select2-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=4.0.13" media="all">
-<link rel="stylesheet" id="um_crop-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_modal-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_styles-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_profile-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_account-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_misc-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_fileupload-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_datetime-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_datetime_date-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_datetime_time-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_raty-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_scrollbar-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_tipsy-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_responsive-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="um_default_css-css" href="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.6.9" media="all">
-<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.2" media="all">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="text/javascript">
-            window._nslDOMReady = function (callback) {
-                if ( document.readyState === "complete" || document.readyState === "interactive" ) {
-                    callback();
-                } else {
-                    document.addEventListener( "DOMContentLoaded", callback );
-                }
-            };
-            </script><!--[if IE]>
-<script src='https://citasmedicasmaryury.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.1.6' id='astra-flexibility-js'></script>
-<script id="astra-flexibility-js-after">
-flexibility(document.documentElement);
-</script>
-<![endif]-->
-<script src="https://citasmedicasmaryury.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.16.6" id="font-awesome-4-shim-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.6.9" id="um-gdpr-js"></script>
-<link rel="https://api.w.org/" href="https://citasmedicasmaryury.com/wp-json/"><link rel="alternate" type="application/json" href="https://citasmedicasmaryury.com/wp-json/wp/v2/pages/8"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://citasmedicasmaryury.com/xmlrpc.php?rsd">
-<meta name="generator" content="WordPress 6.3.2">
-<link rel="canonical" href="https://citasmedicasmaryury.com/menu/">
-<link rel="shortlink" href="https://citasmedicasmaryury.com/?p=8">
-<link rel="alternate" type="application/json+oembed" href="https://citasmedicasmaryury.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://citasmedicasmaryury.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F&amp;format=xml">
-		<style type="text/css">
-			.um_request_name {
-				display: none !important;
-			}
-		</style>
-	<meta name="generator" content="Elementor 3.16.6; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
-<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style media="print">#wpadminbar { display:none; }</style>
-	<style media="screen">
-	html { margin-top: 32px !important; }
-	@media screen and ( max-width: 782px ) {
-		html { margin-top: 46px !important; }
-	}
-</style>
-	<style id="uagb-style-frontend-8">.uag-blocks-common-selector{z-index:var(--z-index-desktop) !important}@media (max-width: 976px){.uag-blocks-common-selector{z-index:var(--z-index-tablet) !important}}@media (max-width: 767px){.uag-blocks-common-selector{z-index:var(--z-index-mobile) !important}}
-</style><script src="https://citasmedicasmaryury.com/wp-includes/js/wp-emoji-release.min.js?ver=6.3.2" defer=""></script><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
-.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
-.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
-.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
-.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head>
-
-<body data-rsssl="1" itemtype="https://schema.org/WebPage" itemscope="itemscope" class="page-template-default page page-id-8 logged-in admin-bar wp-custom-logo ast-header-break-point ast-page-builder-template ast-no-sidebar astra-4.1.6 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-kit-523 elementor-page elementor-page-8 customize-support dialog-body dialog-buttons-body dialog-container dialog-buttons-container e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit" style="" data-elementor-device-mode="tablet">
-	<script>
-		(function() {
-			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
-
-				request = true;
-
-			b[c] = b[c].replace( rcs, ' ' );
-			// The customizer requires postMessage and CORS (if the site is cross domain).
-			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
-		}());
-	</script>
-			<div id="wpadminbar" class="nojq mobile">
-						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas">
-						<a class="screen-reader-shortcut" href="https://citasmedicasmaryury.com/wp-login.php?action=logout&amp;_wpnonce=884b7cbac4">Salir</a>
-					</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/header.css">
+    <link rel="stylesheet" href="CSS/menu.css">
+    <link rel="stylesheet" href="CSS/footer.css">
+    <title>Restaurante</title>
+</head>
+<body>
 <header>
+
     <div class="logo">
-        <table>
+        <table class="menu">
             <tr>
-                <th><img width="150" height="102" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png" class="custom-logo" alt="Citas Medicas" decoding="async" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png 1x, https://citasmedicasmaryury.com/wp-content/uploads/2018/10/logo@2x-free-img.png 2x" sizes="(max-width: 150px) 100vw, 150px"></th>
+                <th><img width="150" height="102" src="IMG/good.png" alt=""></th>
                 <th><h2 >Restaurante</h2><br>
-                    Las mejores carnes y atencion excelente</th>
+                    Las mejores carnes y atenion excelente</th>
+                    <br>
             </tr>
         </table>
         </div>
     <div class="menuheader">
-        <table class="menu" border="1" cellpadding="5">
+        <table class="menu" cellpadding="5">
             <tr>
                 <th><a href="index.jsp" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
                 <th><a href="menu.jsp"class="enlaceheader"style="text-decoration:none">Menu</a></th>
@@ -205,842 +32,168 @@ flexibility(document.documentElement);
                 <th><a href="reservarmesa.jsp" class="enlaceheader"style="text-decoration:none">Resevar mesa</a></th>
                 <th><a href="https://citasmedicasmaryury.com/wp-admin/admin.php?page=simply-schedule-appointments#/ssa/appointments" class="enlaceheader"style="text-decoration:none">RESERVACIONES</a></th>
             </tr>
+            <br><br><br>
         </table>
+
     </div>
+
 </header>
+<section>
+<br><br>
+<center>
+ <table class="titulo">
+    <tr><th>
+    <p><h1>NUESTRO MENU</h1></p>
+    <br>
+    <p><h3><font size=6>*Hemos convertido nuestra pasion en nuestra profesion*</h3></p></font>
+    </footer>
+ </table>
+   <br>
+       			<h1 ><font size=8>Good Chef</h1></font>		</div>
+       				</div>
 
-</div> <!-- Main Header Bar Wrap -->
-<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
-		<div class="ast-main-header-wrap main-header-bar-wrap">
-		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
-									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
-													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
-										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
-											<div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-					<span class="site-logo-img"><a href="https://citasmedicasmaryury.com/" class="custom-logo-link" rel="home"><img width="150" height="102" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png" class="custom-logo" alt="Citas Medicas" decoding="async" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/logo-150x102.png 1x, https://citasmedicasmaryury.com/wp-content/uploads/2018/10/logo@2x-free-img.png 2x" sizes="(max-width: 150px) 100vw, 150px"></a></span>				</div>
-			<!-- .site-branding -->
-					</div>
-									</div>
-																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
-										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
-						<div class="ast-button-wrap">
-				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-fill" aria-expanded="false" data-index="0">
-					<span class="screen-reader-text">Main Menu</span>
-					<span class="mobile-menu-toggle-icon">
-						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class="ast-mobile-svg ast-menu2-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="28" viewBox="0 0 24 28"><path d="M24 21v2c0 0.547-0.453 1-1 1h-22c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h22c0.547 0 1 0.453 1 1zM24 13v2c0 0.547-0.453 1-1 1h-22c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h22c0.547 0 1 0.453 1 1zM24 5v2c0 0.547-0.453 1-1 1h-22c-0.547 0-1-0.453-1-1v-2c0-0.547 0.453-1 1-1h22c0.547 0 1 0.453 1 1z"></path></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class="ast-mobile-svg ast-close-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path></svg></span>					</span>
-									</button>
-			</div>
-					</div>
-									</div>
-											</div>
-						</div>
-	</div>
+       							<p>Tres emprendedoras con un mismo sueño</p>						</div>
+       				</div>
+       					<img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png" class="attachment-full size-full wp-image-1140" alt="">															</div>
+       				</div>
+       					</div>
 
-			</div>
-</div>
-		</header><!-- #masthead -->
-			<div id="content" class="site-content">
-		<div class="ast-container">
+    <section >
+            <table  class="imagen1">
+                   <br><br><br><br><br>
+                          <tr>
+                           <th >
+    			    <h3 >Cerdo a la Parrilla</h3>
 
+    			<h4>$45</h4>		</div></tr></th>
+    				</div>
 
-	<div id="primary" class="content-area primary">
+    		</div>
+    				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1af7fa7b" data-id="1af7fa7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+    			<div class="elementor-widget-wrap elementor-element-populated">
+    					<div class="elementor-background-overlay"></div>
+    								<div class="elementor-element elementor-element-7b335bf4 elementor-widget elementor-widget-heading" data-id="7b335bf4" data-element_type="widget" data-widget_type="heading.default">
+    				<div class="elementor-widget-container">
+    			<h3 class="elementor-heading-title elementor-size-default">Chocolate Lava</h3>		</div>
+    				</div>
+    				<div class="elementor-element elementor-element-4979469 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4979469" data-element_type="widget" data-widget_type="divider.default">
+    				<div class="elementor-widget-container">
+    					<div class="elementor-divider">
+    			<span class="elementor-divider-separator">
+    						</span>
+    		</div>
+    				</div>
+    				</div>
+    				<div class="elementor-element elementor-element-762c0f10 elementor-widget elementor-widget-heading" data-id="762c0f10" data-element_type="widget" data-widget_type="heading.default">
+    				<div class="elementor-widget-container">
+    			<h4 class="elementor-heading-title elementor-size-default">$10</h4>		</div>
+    				</div>
+    					</div>
+    		</div>
+    				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-414bcc5b" data-id="414bcc5b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+    			<div class="elementor-widget-wrap elementor-element-populated">
+    					<div class="elementor-background-overlay"></div>
+    								<div class="elementor-element elementor-element-4f2b8846 elementor-widget elementor-widget-heading" data-id="4f2b8846" data-element_type="widget" data-widget_type="heading.default">
+    				<div class="elementor-widget-container">
+    			<h3 class="elementor-heading-title elementor-size-default">Cerdo a la Parrilla</h3>		</div>
+    				</div>
+    				<div class="elementor-element elementor-element-47ab034 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47ab034" data-element_type="widget" data-widget_type="divider.default">
+    				<div class="elementor-widget-container">
+    					<div class="elementor-divider">
+    			<span class="elementor-divider-separator">
+    						</span>
+    		</div>
+    				</div>
+    				</div>
+    				<div class="elementor-element elementor-element-67922b2e elementor-widget elementor-widget-heading" data-id="67922b2e" data-element_type="widget" data-widget_type="heading.default">
+    				<div class="elementor-widget-container">
+    			<h4 class="elementor-heading-title elementor-size-default">$65</h4>		</div>
+    				</div>
+    					</div>
+    		</div>
+    							</div>
+    		</section>
 
+    		<div class="contenedor2">
+                           <div>
+                               <table  class=" reunion">
+                                   <br><br><br><br><br>
+                                   <tr>
+                                   <th >
+                                       <h1>Filete en Bistec</h1>
+                                       <p>$45</p>
+                                       <p>Sabor unico, 100% saludable </p>
+                                   </th>
+                                   <th>
+                                       <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img.png" class="attachment-full size-full wp-image-1144" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
+                                   </th>
+                                   <th>
+                                       <p><h1>Filete de salmon a</p>
+                                      <p> la plancha con ensalada</h1></p>
+                                       <p>$48</p>
+                                       <p>Sabor unico, 100% saludable </p>
+                                   </th>
+                                   <th>
+                                       <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img.png" class="attachment-full size-full wp-image-1143" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
 
-					<main id="main" class="site-main">
-				<article class="post-8 page type-page status-publish ast-article-single" id="post-8" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+                                   </th>
+                               </tr>
+                               </table>
+                           </div>
+                       </div>
 
+                       <div class="contenedor2">
+                           <div>
+                               <table  class=" reunion">
+                                   <br><br><br><br><br>
+                                   <tr>
+                                   <th >
+                                       <h1>Pollo en Salsa Teriyaki</h1>
+                                       <p>$57</p>
+                                       <p>Sabor unico, 100% saludable </p>
+                                   </th>
+                                   <th>
+                                       <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img.png" class="attachment-full size-full wp-image-1142" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
 
-	<header class="entry-header ast-no-thumbnail ast-no-title ast-header-without-markup">
-			</header> <!-- .entry-header -->
+                                   </th>
 
+                                   <th>
+                                       <h1>Nuggets de Pollo con Patata</h1>
+                                       <p>$30</p>
+                                       <p>Sabor unico, 100% saludable </p>
+                                   </th>
+                                   <th>
+                                       <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06.png" class="attachment-full size-full wp-image-567" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
 
-<div class="entry-content clear" itemprop="text">
+                                   </th>
+                               </tr>
+                               </table>
+                           </div>
+                       </div>
+                       <div class="contenedor2" border=1>
+                           <div>
+                               <table  class=" reunion">
+                                   <br></br><br></br><br>
+                                   <tr>
+                                   <th >
+                                       <h1>Spaghetti con Parrilada</h1>
+                                       <p>$50</p>
+                                       <p>Sabor unico, 100% saludable </p>
+                                   </th>
+                                   <th>
+                                       <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05.png" class="attachment-full size-full wp-image-560" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
 
+                                   </th>
+                                   <th>
+                                       <h1>Pollo frito a la Parrilla</h1>
+                                       <p>$25</p>
+                                       <p>Sabor unico, 100% saludable </p>
+                                   </th>
+                                   <th>
+                                       <img decoding="async" loading="lazy" width="150" height="150" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img.png" class="attachment-full size-full wp-image-1145" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">
 
-	<div style="clear:both"></div><div class="the_champ_sharing_container the_champ_horizontal_sharing" data-super-socializer-href="https://citasmedicasmaryury.com/menu/"><div class="the_champ_sharing_title" style="font-weight:bold">Spread the love</div><div class="the_champ_sharing_ul"><a class="the_champ_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg" style="background-color:#3c589a;width:35px;height:35px;border-radius:999px;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;border-radius:999px;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#fff"></path></svg></span></a><a class="the_champ_button_twitter" href="https://twitter.com/intent/tweet?text=Menu&amp;url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F" title="Twitter" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_twitter" style="background-color:#55acee;width:35px;height:35px;border-radius:999px;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;border-radius:999px;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 39 39"><path d="M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z" fill="#fff"></path></svg></span></a><a class="the_champ_button_linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F&amp;title=Menu" title="Linkedin" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_linkedin" style="background-color:#0077b5;width:35px;height:35px;border-radius:999px;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;border-radius:999px;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path d="M6.227 12.61h4.19v13.48h-4.19V12.61zm2.095-6.7a2.43 2.43 0 0 1 0 4.86c-1.344 0-2.428-1.09-2.428-2.43s1.084-2.43 2.428-2.43m4.72 6.7h4.02v1.84h.058c.56-1.058 1.927-2.176 3.965-2.176 4.238 0 5.02 2.792 5.02 6.42v7.395h-4.183v-6.56c0-1.564-.03-3.574-2.178-3.574-2.18 0-2.514 1.7-2.514 3.46v6.668h-4.187V12.61z" fill="#fff"></path></svg></span></a><a class="the_champ_button_pinterest" href="https://citasmedicasmaryury.com/menu/" onclick="event.preventDefault();javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pinterest" rel="nofollow noopener" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_pinterest" style="background-color:#cc2329;width:35px;height:35px;border-radius:999px;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;border-radius:999px;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2 -2 35 35"><path fill="#fff" d="M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z"></path></svg></span></a><a class="the_champ_button_reddit" href="http://reddit.com/submit?url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F&amp;title=Menu" title="Reddit" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_reddit" style="background-color:#ff5700;width:35px;height:35px;border-radius:999px;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;border-radius:999px;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-3.5 -3.5 39 39"><path d="M28.543 15.774a2.953 2.953 0 0 0-2.951-2.949 2.882 2.882 0 0 0-1.9.713 14.075 14.075 0 0 0-6.85-2.044l1.38-4.349 3.768.884a2.452 2.452 0 1 0 .24-1.176l-4.274-1a.6.6 0 0 0-.709.4l-1.659 5.224a14.314 14.314 0 0 0-7.316 2.029 2.908 2.908 0 0 0-1.872-.681 2.942 2.942 0 0 0-1.618 5.4 5.109 5.109 0 0 0-.062.765c0 4.158 5.037 7.541 11.229 7.541s11.22-3.383 11.22-7.541a5.2 5.2 0 0 0-.053-.706 2.963 2.963 0 0 0 1.427-2.51zm-18.008 1.88a1.753 1.753 0 0 1 1.73-1.74 1.73 1.73 0 0 1 1.709 1.74 1.709 1.709 0 0 1-1.709 1.711 1.733 1.733 0 0 1-1.73-1.711zm9.565 4.968a5.573 5.573 0 0 1-4.081 1.272h-.032a5.576 5.576 0 0 1-4.087-1.272.6.6 0 0 1 .844-.854 4.5 4.5 0 0 0 3.238.927h.032a4.5 4.5 0 0 0 3.237-.927.6.6 0 1 1 .844.854zm-.331-3.256a1.726 1.726 0 1 1 1.709-1.712 1.717 1.717 0 0 1-1.712 1.712z" fill="#fff"></path></svg></span></a><a class="the_champ_whatsapp" href="https://api.whatsapp.com/send?text=Menu https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F" title="Whatsapp" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg" style="background-color:#55eb4c;width:35px;height:35px;border-radius:999px;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;border-radius:999px;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-6 -5 40 40"><path class="the_champ_svg_stroke the_champ_no_fill" stroke="#fff" stroke-width="2" fill="none" d="M 11.579798566743314 24.396926207859085 A 10 10 0 1 0 6.808479557110079 20.73576436351046"></path><path d="M 7 19 l -1 6 l 6 -1" class="the_champ_no_fill the_champ_svg_stroke" stroke="#fff" stroke-width="2" fill="none"></path><path d="M 10 10 q -1 8 8 11 c 5 -1 0 -6 -1 -3 q -4 -3 -5 -5 c 4 -2 -1 -5 -1 -4" fill="#fff"></path></svg></span></a><a class="the_champ_more" title="More" rel="nofollow noopener" style="font-size:24px!important;border:0;box-shadow:none;display:inline-block!important;font-size:16px;padding:0 4px;vertical-align: middle;display:inline;" href="https://citasmedicasmaryury.com/menu/" onclick="event.preventDefault()"><span class="the_champ_svg" style="background-color:#ee8e2d;width:35px;height:35px;border-radius:999px;display:inline-block!important;opacity:1;float:left;font-size:32px!important;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;display:inline;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box;" onclick="theChampMoreSharingPopup(this, 'https://citasmedicasmaryury.com/menu/', 'Menu', '' )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-.3 0 32 32" version="1.1" width="100%" height="100%" style="display:block;border-radius:999px;" xml:space="preserve"><g><path fill="#fff" d="M18 14V8h-4v6H8v4h6v6h4v-6h6v-4h-6z" fill-rule="evenodd"></path></g></svg></span></a></div></div><div style="clear:both"></div>		<div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-3c1849c2 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="3c1849c2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;triangle&quot;}">
-							<div class="elementor-background-overlay"></div>
-						<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" d="M500,98.9L0,6.1V0h1000v6.1L500,98.9z"></path>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-extended">
-					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-1b8fef79" data-id="1b8fef79" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-39393098" data-id="39393098" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-61c33d6f elementor-widget elementor-widget-image" data-id="61c33d6f" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.16.0 - 17-10-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png" class="attachment-full size-full wp-image-1140" alt="">															</div>
-				</div>
-				<div class="elementor-element elementor-element-2e7e6ff7 elementor-widget elementor-widget-heading animated fadeInUp" data-id="2e7e6ff7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.16.0 - 17-10-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Nuestro Menú.</h1>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2b5f83c5 elementor-hidden-phone elementor-widget elementor-widget-text-editor animated fadeInUp" data-id="2b5f83c5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.16.0 - 17-10-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<blockquote>
-<p><span style="color: #ffffff;"><span style="font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px; text-align: left;">“Hemos convertido&nbsp;</span><span style="font-weight: bold; font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px; text-align: left;">nuestra pasión</span><span style="font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px; text-align: left;">&nbsp;en nuestra profesión”</span></span></p>
-</blockquote>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-19e5d963" data-id="19e5d963" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6c8cfb9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c8cfb9" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5def2807" data-id="5def2807" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-36f8f4e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="36f8f4e6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7ab80f77" data-id="7ab80f77" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-639bfb5f" data-id="639bfb5f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-61bc24df elementor-invisible elementor-widget elementor-widget-heading" data-id="61bc24df" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Good Chef</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-7d6b7789 elementor-widget elementor-widget-text-editor" data-id="7d6b7789" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Tres emprendedoras con un mismo sueño</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-610d7af9 elementor-widget elementor-widget-image" data-id="610d7af9" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png" class="attachment-full size-full wp-image-1140" alt="">															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5351bbd" data-id="5351bbd" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-719ecc8d elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="719ecc8d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-523e27eb" data-id="523e27eb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-46612db1 elementor-widget elementor-widget-heading" data-id="46612db1" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Pollo a la Parrilla</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8351013 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8351013" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.16.0 - 17-10-2023 */
-.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6c95b7c1 elementor-widget elementor-widget-heading" data-id="6c95b7c1" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$45</h4>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1af7fa7b" data-id="1af7fa7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-7b335bf4 elementor-widget elementor-widget-heading" data-id="7b335bf4" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Chocolate Lava</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4979469 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4979469" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-762c0f10 elementor-widget elementor-widget-heading" data-id="762c0f10" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$10</h4>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-414bcc5b" data-id="414bcc5b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-4f2b8846 elementor-widget elementor-widget-heading" data-id="4f2b8846" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Cerdo a la Parrilla</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-47ab034 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47ab034" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-67922b2e elementor-widget elementor-widget-heading" data-id="67922b2e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$65</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e08e664 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e08e664" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-68f3197" data-id="68f3197" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-543115a elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="543115a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-698e32f" data-id="698e32f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9d29991 elementor-widget elementor-widget-heading" data-id="9d29991" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Espaguetis con caballa a la plancha</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-dfeb5fa elementor-widget elementor-widget-heading" data-id="dfeb5fa" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">$50</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f511617" data-id="f511617" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cc617de elementor-widget elementor-widget-image" data-id="cc617de" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" fetchpriority="high" width="350" height="350" src="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05.png" class="attachment-full size-full wp-image-560" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-05-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2ffc4ca elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ffc4ca" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-19d0698" data-id="19d0698" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1c08909 elementor-widget elementor-widget-heading" data-id="1c08909" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Pollo en salsa teriyaki</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ba53c38 elementor-widget elementor-widget-heading" data-id="ba53c38" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">$57</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-932812e" data-id="932812e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-02e565a elementor-widget elementor-widget-image" data-id="02e565a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="350" height="350" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img.png" class="attachment-full size-full wp-image-1142" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food4-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ee1e74 elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ee1e74" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-60891ad" data-id="60891ad" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f981f0a elementor-widget elementor-widget-heading" data-id="f981f0a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Filete de salmón a la plancha con ensalada</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d4e1a9b elementor-widget elementor-widget-heading" data-id="d4e1a9b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">$38</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e3b99f8" data-id="e3b99f8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-55e1d6d elementor-widget elementor-widget-image" data-id="55e1d6d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" loading="lazy" width="350" height="350" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img.png" class="attachment-full size-full wp-image-1143" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food5-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-790bfc0" data-id="790bfc0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-d13e316 elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d13e316" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f2c3cb1" data-id="f2c3cb1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-130d04e elementor-widget elementor-widget-heading" data-id="130d04e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Nuggets de pollo con patata</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1f3d41f elementor-widget elementor-widget-heading" data-id="1f3d41f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">$30</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6e707e1" data-id="6e707e1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a845730 elementor-widget elementor-widget-image" data-id="a845730" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" loading="lazy" width="350" height="350" src="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06.png" class="attachment-full size-full wp-image-567" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2021/03/food-dish-06-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-aefb7e6 elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aefb7e6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-135af79" data-id="135af79" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5400806 elementor-widget elementor-widget-heading" data-id="5400806" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Filete de res a la parrilla</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-18bef95 elementor-widget elementor-widget-heading" data-id="18bef95" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">$45</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6bb9587" data-id="6bb9587" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cc16033 elementor-widget elementor-widget-image" data-id="cc16033" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" loading="lazy" width="350" height="350" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img.png" class="attachment-full size-full wp-image-1144" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food3-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d9ccf52 elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d9ccf52" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14d4300" data-id="14d4300" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-23bd385 elementor-widget elementor-widget-heading" data-id="23bd385" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Pollo a la parrilla y frito</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-9bc450e elementor-widget elementor-widget-heading" data-id="9bc450e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">$25</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-671f63c" data-id="671f63c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8f2d0f6 elementor-widget elementor-widget-image" data-id="8f2d0f6" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" loading="lazy" width="350" height="350" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img.png" class="attachment-full size-full wp-image-1145" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img.png 350w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img-300x300.png 300w, https://citasmedicasmaryury.com/wp-content/uploads/2023/10/food6-free-img-150x150.png 150w" sizes="(max-width: 350px) 100vw, 350px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9633e74 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9633e74" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5e64040d" data-id="5e64040d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-929c54b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="929c54b" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-1bee9dfc" data-id="1bee9dfc" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-181f184e elementor-widget elementor-widget-heading" data-id="181f184e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Beverages</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-501ba2be" data-id="501ba2be" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-978ec23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="978ec23" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-65a88700" data-id="65a88700" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2a751a71 elementor-widget elementor-widget-heading" data-id="2a751a71" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Agua</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1cef3c57 elementor-widget elementor-widget-text-editor" data-id="1cef3c57" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Natural / Espumosa</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-59e52d5e" data-id="59e52d5e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-18c9dae3 elementor-widget elementor-widget-heading" data-id="18c9dae3" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$5</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-30db731d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30db731d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-50b157e4" data-id="50b157e4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5d56855d elementor-widget elementor-widget-heading" data-id="5d56855d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Cóctel sin Alcohol</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1f5b0cf4 elementor-widget elementor-widget-text-editor" data-id="1f5b0cf4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Bluberry / Mojito / Margarita / Bloody Merry</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-24b96d0c" data-id="24b96d0c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-712efd6f elementor-widget elementor-widget-heading" data-id="712efd6f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$12</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-357c1b0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="357c1b0b" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-28838a70" data-id="28838a70" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-49c38ab5 elementor-widget elementor-widget-heading" data-id="49c38ab5" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Cerveza sin alcohol</h4>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-497958d8" data-id="497958d8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-73559ed elementor-widget elementor-widget-heading" data-id="73559ed" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$15</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4fcf33f4" data-id="4fcf33f4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-5e1ed7b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e1ed7b" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-792c1de5" data-id="792c1de5" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-354a75da elementor-widget elementor-widget-heading" data-id="354a75da" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Desserts</h2>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-10c0ac9c" data-id="10c0ac9c" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-41d3cc34 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41d3cc34" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-2d979b73" data-id="2d979b73" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7c1fa0bf elementor-widget elementor-widget-heading" data-id="7c1fa0bf" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Helados (Scoop)</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-78e21200 elementor-widget elementor-widget-text-editor" data-id="78e21200" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Vanilla / Stawberry&nbsp; / Chocolate</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2742f406" data-id="2742f406" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-733d4415 elementor-widget elementor-widget-heading" data-id="733d4415" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$5</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c304c26 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c304c26" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-418a9eaa" data-id="418a9eaa" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6ecd526c elementor-widget elementor-widget-heading" data-id="6ecd526c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Pasteles / Repostería</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6dc76a7c elementor-widget elementor-widget-text-editor" data-id="6dc76a7c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Black forest / Pinapple / Chcolate</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7daa61e4" data-id="7daa61e4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-21f0d5dc elementor-widget elementor-widget-heading" data-id="21f0d5dc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$8</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-15db0641 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="15db0641" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-4ee8a47f" data-id="4ee8a47f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-3a7ca647 elementor-widget elementor-widget-heading" data-id="3a7ca647" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Helado Italiano</h4>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-380e2941" data-id="380e2941" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-30ab3a48 elementor-widget elementor-widget-heading" data-id="30ab3a48" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">$10</h4>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		<div class="the_champ_sharing_container the_champ_vertical_sharing the_champ_hide_sharing the_champ_bottom_sharing" style="width:44px;left: -10px;top: 100px;-webkit-box-shadow:none;box-shadow:none;" data-super-socializer-href="https://citasmedicasmaryury.com/menu/"><div class="the_champ_sharing_ul"><a class="the_champ_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg" style="background-color:#3c589a;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#fff"></path></svg></span></a><a class="the_champ_button_twitter" href="https://twitter.com/intent/tweet?text=Menu&amp;url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F" title="Twitter" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_twitter" style="background-color:#55acee;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 39 39"><path d="M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z" fill="#fff"></path></svg></span></a><a class="the_champ_button_linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F&amp;title=Menu" title="Linkedin" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_linkedin" style="background-color:#0077b5;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path d="M6.227 12.61h4.19v13.48h-4.19V12.61zm2.095-6.7a2.43 2.43 0 0 1 0 4.86c-1.344 0-2.428-1.09-2.428-2.43s1.084-2.43 2.428-2.43m4.72 6.7h4.02v1.84h.058c.56-1.058 1.927-2.176 3.965-2.176 4.238 0 5.02 2.792 5.02 6.42v7.395h-4.183v-6.56c0-1.564-.03-3.574-2.178-3.574-2.18 0-2.514 1.7-2.514 3.46v6.668h-4.187V12.61z" fill="#fff"></path></svg></span></a><a class="the_champ_button_pinterest" href="https://citasmedicasmaryury.com/menu/" onclick="event.preventDefault();javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pinterest" rel="nofollow noopener" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_pinterest" style="background-color:#cc2329;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2 -2 35 35"><path fill="#fff" d="M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z"></path></svg></span></a><a class="the_champ_button_reddit" href="http://reddit.com/submit?url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F&amp;title=Menu" title="Reddit" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg the_champ_s__default the_champ_s_reddit" style="background-color:#ff5700;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-3.5 -3.5 39 39"><path d="M28.543 15.774a2.953 2.953 0 0 0-2.951-2.949 2.882 2.882 0 0 0-1.9.713 14.075 14.075 0 0 0-6.85-2.044l1.38-4.349 3.768.884a2.452 2.452 0 1 0 .24-1.176l-4.274-1a.6.6 0 0 0-.709.4l-1.659 5.224a14.314 14.314 0 0 0-7.316 2.029 2.908 2.908 0 0 0-1.872-.681 2.942 2.942 0 0 0-1.618 5.4 5.109 5.109 0 0 0-.062.765c0 4.158 5.037 7.541 11.229 7.541s11.22-3.383 11.22-7.541a5.2 5.2 0 0 0-.053-.706 2.963 2.963 0 0 0 1.427-2.51zm-18.008 1.88a1.753 1.753 0 0 1 1.73-1.74 1.73 1.73 0 0 1 1.709 1.74 1.709 1.709 0 0 1-1.709 1.711 1.733 1.733 0 0 1-1.73-1.711zm9.565 4.968a5.573 5.573 0 0 1-4.081 1.272h-.032a5.576 5.576 0 0 1-4.087-1.272.6.6 0 0 1 .844-.854 4.5 4.5 0 0 0 3.238.927h.032a4.5 4.5 0 0 0 3.237-.927.6.6 0 1 1 .844.854zm-.331-3.256a1.726 1.726 0 1 1 1.709-1.712 1.717 1.717 0 0 1-1.712 1.712z" fill="#fff"></path></svg></span></a><a class="the_champ_whatsapp" href="https://api.whatsapp.com/send?text=Menu https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu%2F" title="Whatsapp" rel="nofollow noopener" target="_blank" style="font-size:24px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="the_champ_svg" style="background-color:#55eb4c;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:24px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-6 -5 40 40"><path class="the_champ_svg_stroke the_champ_no_fill" stroke="#fff" stroke-width="2" fill="none" d="M 11.579798566743314 24.396926207859085 A 10 10 0 1 0 6.808479557110079 20.73576436351046"></path><path d="M 7 19 l -1 6 l 6 -1" class="the_champ_no_fill the_champ_svg_stroke" stroke="#fff" stroke-width="2" fill="none"></path><path d="M 10 10 q -1 8 8 11 c 5 -1 0 -6 -1 -3 q -4 -3 -5 -5 c 4 -2 -1 -5 -1 -4" fill="#fff"></path></svg></span></a><a class="the_champ_more" title="More" rel="nofollow noopener" style="font-size:24px!important;border:0;box-shadow:none;display:inline-block!important;font-size:16px;padding:0 4px;vertical-align: middle;display:inline;" href="https://citasmedicasmaryury.com/menu/" onclick="event.preventDefault()"><span class="the_champ_svg" style="background-color:#ee8e2d;width:40px;height:40px;margin:0;display:inline-block!important;opacity:1;float:left;font-size:32px!important;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;display:inline;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box;" onclick="theChampMoreSharingPopup(this, 'https://citasmedicasmaryury.com/menu/', 'Menu', '' )"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-.3 0 32 32" version="1.1" width="100%" height="100%" style="display:block;" xml:space="preserve"><g><path fill="#fff" d="M18 14V8h-4v6H8v4h6v6h4v-6h6v-4h-6z" fill-rule="evenodd"></path></g></svg></span></a></div><div title="Hide" style="float:left" onclick="theChampHideSharing(this, 'theChampPullOut', 'theChampPushIn','Left', 'left')" class="theChampSharingArrow theChampPullOut"></div></div>
-
-
-</div><!-- .entry-content .clear -->
-
-
-
-</article><!-- #post-## -->
-
-			</main><!-- #main -->
-
-
-	</div><!-- #primary -->
-
-
-	</div> <!-- ast-container -->
-	</div><!-- #content -->
-<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
-			<div class="site-primary-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-3-cwide ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-primary-footer-builder">
-	<div class="ast-builder-grid-row-container-inner">
-					<div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
-											<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
-									</div>
-											<div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
-							<aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1">
-			<div class="footer-widget-area-inner site-info-inner"><section id="text-3" class="widget widget_text"><h2 class="widget-title">Good Chef</h2>			<div class="textwidget"><p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-12" src="https://websitedemos.net/bbq-restaurant-02/wp-content/uploads/sites/284/2018/10/divider-free-img-1.png" alt="" width="200" height="35"></p>
-<p>Conoce mas de nosotros en nuestras redes sociales, no te olvides de seguirnos…</p>
-<p>Reserva tu mesa, vive tu experiencia, danos tu opinion…</p>
-</div>
-		</section><section id="text-4" class="widget widget_text"><h2 class="widget-title">Reservar mesa</h2>			<div class="textwidget"><p><a href="#"><button>Reserrvar</button></a></p>
-<p>&nbsp;</p>
-</div>
-		</section></div>		</aside>
-					<div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-2" data-section="section-fb-html-2">
-				<div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Reservacion : 123 456 7890</p>
-</div></div>			</div>
-						<div class="ast-builder-layout-element ast-flex site-footer-focus-item" data-section="section-fb-social-icons-1">
-				<div class="ast-footer-social-1-wrap ast-footer-social-wrap"><div class="footer-social-inner-wrap element-social-inner-wrap social-show-label-false ast-social-color-type-custom ast-social-stack-none ast-social-element-style-filled"><a href="" aria-label="Facebook" target="_blank" rel="noopener noreferrer" style="--color: #557dbc; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-facebook footer-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg></span></a><a href="" aria-label="Instagram" target="_blank" rel="noopener noreferrer" style="--color: #8a3ab9; --background-color: transparent;" class="ast-builder-social-element ast-inline-flex ast-instagram footer-social-item"><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"></path></svg></span></a></div></div>			</div>
-						</div>
-											<div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
-									</div>
-										</div>
-			</div>
-
-</div>
-<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-2-equal ast-builder-grid-row-tablet-2-equal ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
-	<div class="ast-builder-grid-row-container-inner">
-					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
-											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
-								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
-				<div class="ast-footer-copyright"><p>Copyright © 2023 Citas Medicas</p>
-</div>			</div>
-						</div>
-											<div class="site-footer-below-section-2 site-footer-section site-footer-section-2">
-							<div class="footer-widget-area widget-area site-footer-focus-item ast-footer-html-1" data-section="section-fb-html-1">
-			<div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p>Powered by Citas Medicas</p>
-</div></div>		</div>
-						</div>
-										</div>
-			</div>
-
-</div>
-	</footer><!-- #colophon -->
-	</div><!-- #page -->
-
-<div id="um_upload_single" style="display:none"></div>
-
-<div id="um_view_photo" style="display:none">
-
-	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close" aria-label="Cerrar la vista emergente de la foto">
-		<i class="um-faicon-times"></i>
-	</a>
-
-	<div class="um-modal-body photo">
-		<div class="um-modal-photo"></div>
-	</div>
-
-</div>
-
-<div class="joinchat joinchat--right joinchat--dark-auto joinchat--show joinchat--noanim" data-settings="{&quot;telephone&quot;:&quot;50376370159&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:0,&quot;whatsapp_web&quot;:true,&quot;qr&quot;:true,&quot;message_views&quot;:2,&quot;message_delay&quot;:0,&quot;message_badge&quot;:true,&quot;message_send&quot;:&quot;Veterinaria Animals Clinic *Citas Medicas*. En que podemos ayudarte? Menu https://citasmedicasmaryury.com/menu&quot;,&quot;message_hash&quot;:&quot;b2de3d5&quot;}" style="--peak: url(#joinchat__message__peak); --vh: 464px;">
-	<div class="joinchat__button">
-		<div class="joinchat__button__open"></div>
-											<div class="joinchat__button__sendtext">Tienes una emergencia</div>
-						<svg class="joinchat__button__send" width="60" height="60" viewBox="0 0 400 400" stroke-linecap="round" stroke-width="33">
-				<path class="joinchat_svg__plain" d="M168.83 200.504H79.218L33.04 44.284a1 1 0 0 1 1.386-1.188L365.083 199.04a1 1 0 0 1 .003 1.808L34.432 357.903a1 1 0 0 1-1.388-1.187l29.42-99.427"></path>
-				<path class="joinchat_svg__chat" d="M318.087 318.087c-52.982 52.982-132.708 62.922-195.725 29.82l-80.449 10.18 10.358-80.112C18.956 214.905 28.836 134.99 81.913 81.913c65.218-65.217 170.956-65.217 236.174 0 42.661 42.661 57.416 102.661 44.265 157.316"></path>
-			</svg>
-							<div class="joinchat__badge">1</div>
-
-			</div>
-			<div class="joinchat__box">
-			<div class="joinchat__header">
-									<a class="joinchat__powered" href="https://join.chat/es/powered/?site=Citas%20Medicas&amp;url=https%3A%2F%2Fcitasmedicasmaryury.com%2Fmenu" rel="nofollow noopener" target="_blank">
-						Powered by <svg width="81" height="18" viewBox="0 0 1424 318"><title>Joinchat</title><path d="m171 7 6 2 3 3v5l-1 8a947 947 0 0 0-2 56v53l1 24v31c0 22-6 43-18 63-11 19-27 35-48 48s-44 18-69 18c-14 0-24-3-32-8-7-6-11-13-11-23a26 26 0 0 1 26-27c7 0 13 2 19 6l12 12 1 1a97 97 0 0 0 10 13c4 4 7 6 10 6 4 0 7-2 10-6l6-23v-1c2-12 3-28 3-48V76l-1-3-3-1h-1l-11-2c-2-1-3-3-3-7s1-6 3-7a434 434 0 0 0 90-49zm1205 43c4 0 6 1 6 3l3 36a1888 1888 0 0 0 34 0h1l3 2 1 8-1 8-3 1h-35v62c0 14 2 23 5 28 3 6 9 8 16 8l5-1 3-1c2 0 3 1 5 3s3 4 2 6c-4 10-11 19-22 27-10 8-22 12-36 12-16 0-28-5-37-15l-8-13v1h-1c-17 17-33 26-47 26-18 0-31-13-39-39-5 12-12 22-21 29s-19 10-31 10c-11 0-21-4-29-13-7-8-11-18-11-30 0-10 2-17 5-23s9-11 17-15c13-7 35-14 67-21h1v-11c0-11-2-19-5-26-4-6-8-9-14-9-3 0-5 1-5 4v1l-2 15c-2 11-6 19-11 24-6 6-14 8-23 8-5 0-9-1-13-4-3-3-5-8-5-13 0-11 9-22 26-33s38-17 60-17c41 0 62 15 62 46v58l1 11 2 8 2 3h4l5-3 1-1-1-13v-88l-3-2-12-1c-1 0-2-3-2-7s1-6 2-6c16-4 29-9 40-15 10-6 20-15 31-25 1-2 4-3 7-3zM290 88c28 0 50 7 67 22 17 14 25 34 25 58 0 26-9 46-27 61s-42 22-71 22c-28 0-50-7-67-22a73 73 0 0 1-25-58c0-26 9-46 27-61s42-22 71-22zm588 0c19 0 34 4 45 12 11 9 17 18 17 29 0 6-3 11-7 15s-10 6-17 6c-13 0-24-8-33-25-5-11-10-18-13-21s-6-5-9-5c-8 0-11 6-11 17a128 128 0 0 0 32 81c8 8 16 12 25 12 8 0 16-3 24-10 1-1 3 0 6 2 2 2 3 3 3 5-5 12-15 23-29 32s-30 13-48 13c-24 0-43-7-58-22a78 78 0 0 1-22-58c0-25 9-45 27-60s41-23 68-23zm-402-3 5 2 3 3-1 10a785 785 0 0 0-2 53v76c1 3 2 4 4 4l11 3 11-3c3 0 4-1 4-4v-82l-1-2-3-2-11-1-2-6c0-4 1-6 2-6a364 364 0 0 0 77-44l5 2 3 3v12a393 393 0 0 0-1 21c5-10 12-18 22-25 9-8 21-11 34-11 16 0 29 5 38 14 10 9 14 22 14 39v88c0 3 2 4 4 4l11 3c1 0 2 2 2 6 0 5-1 7-2 7h-1a932 932 0 0 1-49-2 462 462 0 0 0-48 2c-2 0-3-2-3-7 0-3 1-6 3-6l8-3 3-1 1-3v-62c0-14-2-24-6-29-4-6-12-9-22-9l-7 1v99l1 3 3 1 8 3h1l2 6c0 5-1 7-3 7a783 783 0 0 1-47-2 512 512 0 0 0-51 2h-1a895 895 0 0 1-49-2 500 500 0 0 0-50 2c-1 0-2-2-2-7 0-4 1-6 2-6l11-3c2 0 3-1 4-4v-82l-1-3-3-1-11-2c-1 0-2-2-2-6l2-6a380 380 0 0 0 80-44zm539-75 5 2 3 3-1 9a758 758 0 0 0-2 55v42h1c5-9 12-16 21-22 9-7 20-10 32-10 16 0 29 5 38 14 10 9 14 22 14 39v88c0 2 2 3 4 4l11 2c1 0 2 2 2 7 0 4-1 6-2 6h-1a937 937 0 0 1-49-2 466 466 0 0 0-48 2c-2 0-3-2-3-6s1-7 3-7l8-2 3-2 1-3v-61c0-14-2-24-6-29-4-6-12-9-22-9l-7 1v99l1 2 3 2 8 2h1c1 1 2 3 2 7s-1 6-3 6a788 788 0 0 1-47-2 517 517 0 0 0-51 2c-1 0-2-2-2-6 0-5 1-7 2-7l11-2c3-1 4-2 4-5V71l-1-3-3-1-11-2c-1 0-2-2-2-6l2-6a387 387 0 0 0 81-43zm-743 90c-8 0-12 7-12 20a266 266 0 0 0 33 116c3 3 6 4 9 4 8 0 12-6 12-20 0-17-4-38-11-65-8-27-15-44-22-50-3-4-6-5-9-5zm939 65c-6 0-9 4-9 13 0 8 2 16 7 22 5 7 10 10 15 10l6-2v-22c0-6-2-11-7-15-4-4-8-6-12-6zM451 0c10 0 18 3 25 10s10 16 10 26a35 35 0 0 1-35 36c-11 0-19-4-26-10-7-7-10-16-10-26s3-19 10-26 15-10 26-10zm297 249c9 0 16-3 22-8 6-6 9-12 9-20s-3-15-9-21-13-8-22-8-16 3-22 8-9 12-9 21 3 14 9 20 13 8 22 8z"></path></svg>
-					</a>
-								<div class="joinchat__close" title="Cerrar"></div>
-			</div>
-			<div class="joinchat__box__scroll">
-				<div class="joinchat__box__content">
-					<div class="joinchat__message">Veterinaria Animals Clinic<br>¿En qué podemos ayudarte?</div>				</div>
-			</div>
-		</div>
-		<svg style="width:0;height:0;position:absolute"><defs><clipPath id="joinchat__message__peak"><path d="M17 25V0C17 12.877 6.082 14.9 1.031 15.91c-1.559.31-1.179 2.272.004 2.272C9.609 18.182 17 18.088 17 25z"></path></clipPath></defs></svg>
-	</div>
-<script type="text/template" id="tmpl-elementor-templates-modal__header">
-	<div class="elementor-templates-modal__header__logo-area"></div>
-	<div class="elementor-templates-modal__header__menu-area"></div>
-	<div class="elementor-templates-modal__header__items-area">
-		<# if ( closeType ) { #>
-			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
-				<# if ( 'skip' === closeType ) { #>
-				<span>Saltar</span>
-				<# } #>
-				<i class="eicon-close" aria-hidden="true"></i>
-				<span class="elementor-screen-only">Cerrar</span>
-			</div>
-		<# } #>
-		<div id="elementor-template-library-header-tools"></div>
-	</div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
-	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
-		<i class="eicon-elementor"></i>
-	</span>
-	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
-</script>
-<script type="text/template" id="tmpl-elementor-finder">
-	<div id="elementor-finder__search">
-		<i class="eicon-search" aria-hidden="true"></i>
-		<input id="elementor-finder__search__input" placeholder="Teclea para encontrar lo que sea en Elementor" autocomplete="off">
-	</div>
-	<div id="elementor-finder__content"></div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-finder-results-container">
-	<div id="elementor-finder__no-results">Ningún resultado</div>
-	<div id="elementor-finder__results"></div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-finder__results__category">
-	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
-	<div class="elementor-finder__results__category__items"></div>
-</script>
-
-<script type="text/template" id="tmpl-elementor-finder__results__item">
-	<a href="{{ url }}" class="elementor-finder__results__item__link">
-		<div class="elementor-finder__results__item__icon">
-			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
-		</div>
-		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
-		<# if ( description ) { #>
-			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
-		<# } #>
-
-		<# if ( lock ) { #>
-		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
-		<# } #>
-	</a>
-	<# if ( actions.length ) { #>
-		<div class="elementor-finder__results__item__actions">
-		<# jQuery.each( actions, function() { #>
-			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
-				<i class="eicon-{{{ this.icon }}}"></i>
-			</a>
-		<# } ); #>
-		</div>
-	<# } #>
-</script>
-	<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
-	<link rel="stylesheet" id="e-animations-css" href="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.16.6" media="all">
-<script id="astra-theme-js-js-extra">
-var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"","is_scroll_to_top":"","is_header_footer_builder_active":"1"};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.1.6" id="astra-theme-js-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/popups-for-divi/scripts/builder.min.js?ver=3.0.5" id="js-divi-area-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.7" id="joinchat-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/super-socializer/js/front/combined.js?ver=7.13.56" id="the_champ_combined_script-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/backbone.min.js?ver=1.4.1" id="backbone-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1" id="backbone-marionette-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4" id="backbone-radio-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.16.6" id="elementor-common-modules-js"></script>
-<script id="elementor-web-cli-js-before">
-var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/citasmedicasmaryury.com\/wp-json\/","assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"0bafff4548","version":"3.16.6"};
-var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/citasmedicasmaryury.com\/wp-json\/","assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"0bafff4548","version":"3.16.6"};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.16.6" id="elementor-web-cli-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
-<script id="wp-api-request-js-extra">
-var wpApiSettings = {"root":"https:\/\/citasmedicasmaryury.com\/wp-json\/","nonce":"0bafff4548","versionString":"wp\/v2\/"};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/api-request.min.js?ver=6.3.2" id="wp-api-request-js"></script>
-<script id="elementor-dev-tools-js-before">
-var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.16.6"}};
-var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.16.6"}};
-var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.16.6"}};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.16.6" id="elementor-dev-tools-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
-<script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-</script>
-<script id="elementor-common-js-translations">
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "elementor", {"translation-revision-date":"2023-10-17 16:21:24+0000","generator":"GlotPress\/4.0.0-alpha.10","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Import Without Enabling":["Importar sin activar"],"Enable and Import":["Activar e importar"],"If you do not enable uploading unfiltered files, any SVG or JSON (including lottie) files used in the uploaded template will not be imported.":["Si no activas la subida de archivos no filtrados, no se importar\u00e1n los archivos SVG o JSON (incluyendo lottie) utilizados en la plantilla subida."],"The file exceeds the maximum upload size for this site.":["El archivo supera el tama\u00f1o m\u00e1ximo de subida de este sitio."],"Uploading...":["Subiendo..."],"Enable Unfiltered File Uploads":["Permitir la subida de archivos sin filtrar"],"Unable to connect":["No ha sido posible conectar"],"Before you enable unfiltered files upload, note that such files include a security risk. Elementor does run a process to remove possible malicious code, but there is still risk involved when using such files.":["Antes de que actives la subida de archivos sin filtrar, ten en cuenta que este tipo de archivos implican un riesgo de seguridad. Elementor ejecuta un proceso para eliminar el posible c\u00f3digo malicioso, pero todav\u00eda hay un riesgo inherente al usar estos archivos."],"Finder":["Buscador"],"Enable":["Activar"],"Cancel":["Cancelar"]}},"comment":{"reference":"assets\/js\/common.js"}} );
-</script>
-<script id="elementor-common-js-before">
-var elementorCommonConfig = {"version":"3.16.6","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/citasmedicasmaryury.com\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":false,"subscription_plans":[{"label":null,"promotion_url":null,"color":null},{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}],"base_access_level":0,"current_access_level":0},"ajax":{"url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin-ajax.php","nonce":"5c2cecfa97"},"finder":{"data":{"edit":{"title":"Editar","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Plantillas guardadas","icon":"library-save","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"Informaci\u00f3n del sistema","icon":"info-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Gestor de perfiles","icon":"person","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Base de conocimiento","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Maquetador de temas","icon":"library-save","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-app&ver=3.16.6#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Biblioteca de kits","icon":"kit-parts","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-app&ver=3.16.6#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Crear","dynamic":false,"items":{"page":{"title":"A\u00f1adir una nueva plantilla de p\u00e1gina","icon":"plus-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=ad0450e7f4","keywords":["A\u00f1adir una nueva plantilla de p\u00e1gina","post","page","template","new","create"]},"section":{"title":"A\u00f1adir nueva Secci\u00f3n","icon":"plus-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=ad0450e7f4","keywords":["A\u00f1adir nueva Secci\u00f3n","post","page","template","new","create"]},"container":{"title":"A\u00f1adir nueva Contenedor","icon":"plus-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=container&_wpnonce=ad0450e7f4","keywords":["A\u00f1adir nueva Contenedor","post","page","template","new","create"]},"wp-post":{"title":"A\u00f1adir nueva Entrada","icon":"plus-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=ad0450e7f4","keywords":["A\u00f1adir nueva Entrada","post","page","template","new","create"]},"wp-page":{"title":"A\u00f1adir nueva P\u00e1gina","icon":"plus-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=ad0450e7f4","keywords":["A\u00f1adir nueva P\u00e1gina","post","page","template","new","create"]},"landing-page":{"title":"A\u00f1adir nueva P\u00e1gina de destino","icon":"plus-circle-o","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=ad0450e7f4#library","keywords":["A\u00f1adir nueva P\u00e1gina de destino","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Sitio","dynamic":false,"items":{"homepage":{"title":"P\u00e1gina de inicio","url":"https:\/\/citasmedicasmaryury.com","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Escritorio","icon":"dashboard","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Men\u00fas","icon":"wordpress","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Temas","icon":"wordpress","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Personalizador","icon":"wordpress","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Usuarios","icon":"wordpress","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Ajustes","dynamic":false,"items":{"general-settings":{"title":"Ajustes generales","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Avanzado","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experimentos","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Herramientas","dynamic":false,"items":{"tools":{"title":"Herramientas","icon":"tools","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Reemplazar URL","icon":"tools","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Modo de mantenimiento","icon":"tools","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Importar \/ Exportar","icon":"import-export","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Control de versiones","icon":"time-line","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"},"joinchat":{"title":"Joinchat","dynamic":false,"items":{"general":{"title":"Ajustes generales","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=joinchat","icon":"settings","keywords":["joinchat","whatsapp","ajustes","telefono"],"description":"P\u00e1gina de ajustes de Joinchat"},"visibility":{"title":"Ajustes de visibilidad","url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=joinchat&tab=visibility","icon":"eye","keywords":["joinchat","whatsapp","visibilidad","mostrar","ocultar"],"description":"P\u00e1gina de ajustes de Joinchat"}},"name":"joinchat"}}},"connect":[],"event-tracker":{"isUserDataShared":true}};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.16.6" id="elementor-common-js"></script>
-<script id="elementor-app-loader-js-before">
-var elementorAppConfig = {"menu_url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-app&ver=3.16.6#site-editor\/promotion","assets_url":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/citasmedicasmaryury.com\/agenda-tu-cita-aqui\/","hasPro":false,"admin_url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/","login_url":"https:\/\/citasmedicasmaryury.com\/wp-login.php","base_url":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-app&ver=3.16.6","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.16.6" id="elementor-app-loader-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=4.0.13" id="select2-js"></script>
-<script id="wp-util-js-extra">
-var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/wp-util.min.js?ver=6.3.2" id="wp-util-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.6.9" id="um_crop-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.6.9" id="um_modal-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.6.9" id="um_jquery_form-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-fileupload.js?ver=2.6.9" id="um_fileupload-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.6.9" id="um_datetime-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.6.9" id="um_datetime_date-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.6.9" id="um_datetime_time-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/pickadate/translations/es_ES.js?ver=2.6.9" id="um_datetime_locale-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.6.9" id="um_raty-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.6.9" id="um_tipsy-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.6.9" id="um_scrollbar-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.6.9" id="um_functions-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.6.9" id="um_responsive-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.6.9" id="um_conditional-js"></script>
-<script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"5368709120","nonce":"3933cdaab4"};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.6.9" id="um_scripts-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.6.9" id="um_profile-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.6.9" id="um_account-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.6" id="elementor-webpack-runtime-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.6" id="elementor-frontend-modules-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.16.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/citasmedicasmaryury.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":8,"title":"Menu%20%E2%80%93%20Citas%20Medicas","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.6" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
-<script id="wpforms-elementor-js-extra">
-var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.2.3" id="wpforms-elementor-js"></script>
-<script id="elementor-admin-bar-js-before">
-var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Editar con Elementor","href":"https:\/\/citasmedicasmaryury.com\/wp-admin\/post.php?post=8&action=elementor","children":{"9":{"id":"elementor_site_settings","title":"Ajustes del sitio","sub_title":"Sitio","href":"https:\/\/citasmedicasmaryury.com\/wp-admin\/post.php?post=8&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"10":{"id":"elementor_app_site_editor","title":"Maquetador de temas","sub_title":"Sitio","href":"https:\/\/citasmedicasmaryury.com\/wp-admin\/admin.php?page=elementor-app&ver=3.16.6#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
-</script>
-<script src="https://citasmedicasmaryury.com/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.16.6" id="elementor-admin-bar-js"></script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
-<script id="admin-bar-js-before">
-( function() {
-				function wpforms_admin_bar_menu_init() {
-					var template = document.getElementById( 'tmpl-wpforms-admin-menubar-data' ),
-						notifications = document.getElementById( 'wp-admin-bar-wpforms-notifications' );
-
-					if ( ! template ) {
-						return;
-					}
-
-					if ( ! notifications ) {
-						var menu = document.getElementById( 'wp-admin-bar-wpforms-menu-default' );
-
-						if ( ! menu ) {
-							return;
-						}
-
-						menu.insertAdjacentHTML( 'afterBegin', template.innerHTML );
-					} else {
-						notifications.insertAdjacentHTML( 'afterend', template.innerHTML );
-					}
-				};
-				document.addEventListener( 'DOMContentLoaded', wpforms_admin_bar_menu_init );
-			}() );
-</script>
-<script src="https://citasmedicasmaryury.com/wp-includes/js/admin-bar.min.js?ver=6.3.2" id="admin-bar-js"></script>
-			<script>
-			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-			</script>
-					<script type="text/javascript">
-			jQuery( window ).on( 'load', function() {
-				jQuery('input[name="um_request"]').val('');
-			});
-		</script>
-
-
-<div class="heateor_ss_mobile_footer"></div></body></html>
+                                   </th>
+                               </tr>
+                               </table>
+                           </div>
+                       </div>
