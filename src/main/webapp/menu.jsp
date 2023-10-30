@@ -59,60 +59,32 @@
        					</div>
 
     <section >
-            <table  class="imagen1">
+            <table class="frase">
+
                    <br><br><br><br><br>
-                          <tr>
-                           <th >
+                     <tr>
+                     <th class="imagen1">
     			    <h3 >Cerdo a la Parrilla</h3>
 
-    			<h4>$45</h4>		</div></tr></th>
+    			<h4>$55</h4>		</th>
     				</div>
 
-    		</div>
-    				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1af7fa7b" data-id="1af7fa7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-    			<div class="elementor-widget-wrap elementor-element-populated">
-    					<div class="elementor-background-overlay"></div>
-    								<div class="elementor-element elementor-element-7b335bf4 elementor-widget elementor-widget-heading" data-id="7b335bf4" data-element_type="widget" data-widget_type="heading.default">
-    				<div class="elementor-widget-container">
-    			<h3 class="elementor-heading-title elementor-size-default">Chocolate Lava</h3>		</div>
-    				</div>
-    				<div class="elementor-element elementor-element-4979469 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4979469" data-element_type="widget" data-widget_type="divider.default">
-    				<div class="elementor-widget-container">
-    					<div class="elementor-divider">
-    			<span class="elementor-divider-separator">
-    						</span>
-    		</div>
-    				</div>
-    				</div>
-    				<div class="elementor-element elementor-element-762c0f10 elementor-widget elementor-widget-heading" data-id="762c0f10" data-element_type="widget" data-widget_type="heading.default">
-    				<div class="elementor-widget-container">
-    			<h4 class="elementor-heading-title elementor-size-default">$10</h4>		</div>
-    				</div>
+    		  <td>
+    		    <th class="imagen2">
+
+    			<h3 >Chocolate Lava</h3>
+
+    			<h4 >$10</h4>
+    			 </td></th>
+
+    			 <td>
+                     <th class="imagen3">
+                     <h3 ><h3>Cerdo a la Parrilla</h3>		</div>
+                     <h4 >$65</h4>
+                     			 </td></th><tr>
     					</div>
-    		</div>
-    				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-414bcc5b" data-id="414bcc5b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-    			<div class="elementor-widget-wrap elementor-element-populated">
-    					<div class="elementor-background-overlay"></div>
-    								<div class="elementor-element elementor-element-4f2b8846 elementor-widget elementor-widget-heading" data-id="4f2b8846" data-element_type="widget" data-widget_type="heading.default">
-    				<div class="elementor-widget-container">
-    			<h3 class="elementor-heading-title elementor-size-default">Cerdo a la Parrilla</h3>		</div>
-    				</div>
-    				<div class="elementor-element elementor-element-47ab034 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47ab034" data-element_type="widget" data-widget_type="divider.default">
-    				<div class="elementor-widget-container">
-    					<div class="elementor-divider">
-    			<span class="elementor-divider-separator">
-    						</span>
-    		</div>
-    				</div>
-    				</div>
-    				<div class="elementor-element elementor-element-67922b2e elementor-widget elementor-widget-heading" data-id="67922b2e" data-element_type="widget" data-widget_type="heading.default">
-    				<div class="elementor-widget-container">
-    			<h4 class="elementor-heading-title elementor-size-default">$65</h4>		</div>
-    				</div>
-    					</div>
-    		</div>
-    							</div>
-    		</section>
+    		</table>
+
 
     		<div class="contenedor2">
                            <div>
@@ -197,3 +169,97 @@
                                </table>
                            </div>
                        </div>
+
+            <section
+              <div>
+                 <table>
+                    <br><br><br><br><br>
+                      <tr>
+                       <th class="nombre">
+                           Bebidas
+                       </th>
+                       <th class="espacio"></th>
+                        <th class="nombre">
+                             Postres
+                        </th></tr>
+                        <tr>
+                        <th class="name">
+                            Agua
+
+                        </th><th class="name"> $1</th>
+
+                        <th class="name">
+                            Helados (Scoop)
+                        </th><th class="name"> $1</th</tr>
+                        <tr>
+                            <th class="info">
+                                  Natural / Espumosa
+                                </th><th></t>
+
+                              <th class="info">
+                                Vanilla / Stawberry  / Chocolate
+                                      </th></tr>
+
+
+
+                              <tr>
+                                                      <th class="name">
+                                                          Coctel sin Alcohol
+
+                                                      </th><th class="name"> $12</th>
+
+                                                      <th class="name">
+                                                          Reposteria
+                                                      </th><th class="name"> $8</th</tr>
+                                                      <tr>
+                                                          <th class="info">
+                                                                Bluberry / Mojito / Margarita / Bloody Merry
+                                                              </th><th></t>
+
+                                                            <th class="info">
+                                                              Vanilla / Stawberry  / Chocolate
+                                                                    </th></tr>
+
+
+
+                                                                     <tr>
+                                                                                                                          <th class="name">
+                                                                                                                              Cerveza sin alcohol
+
+                                                                                                                          </th><th class="name"> $15</th>
+
+                                                                                                                          <th class="name">
+                                                                                                                              Helado Italiano
+                                                                                                                          </th><th class="name"> $10</th</tr>
+                                                                                                                          <tr>
+
+                        </table>
+                        </div>
+
+
+            		</section>
+
+            		<footer class="foot" border="1">
+                       <div><center><h2><font size=7>Good Chef</h2></font><br>
+                        <img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png"  alt="">	</div>
+                          <br>
+                         <center> <p>Conoce mas de nosotros en nuestras redes sociales, no te olvides de seguirnos</p>
+                         <p>Reserva tu mesa, vive tu experiencia, danos tu opinion</p>
+                          </div>
+                    		<center><h2>Reservar mesa</h2>			<div class="textwidget"><p><a href="reservarmesa.jsp"><button>Reservar</button></a></p>
+                          </center>
+                    </div>
+                           <center>
+                           <div><div ><p>Comunicate con nosotros : 123 456 7890</p></div></div>
+                    			</div>
+                                   <table class="iconos" border="1">
+                                   <tr><th>
+                    				<a href="https://www.facebook.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
+                    				<td>
+                    				<a href="https://web.whatsapp.com/"><img width="75" height="35" src="IMG/wapp.png" alt="WhatsApp" >
+                                    <td>
+                                    <a href="https://www.instagram.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"></path></svg>
+                    					</td></table>	</div>
+
+                    </body>
+                    </html>

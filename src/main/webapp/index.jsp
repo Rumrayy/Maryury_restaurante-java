@@ -53,7 +53,8 @@
            	 <div><center>
            		<h2 ><br>FILETES BARBACOA Y MAS...</h2>		</div>
            			</div>
-                 <span class="enlacefooter">Explore Menu</span>
+                 <span class="enlacefooter"><a href="menu.jsp">Explore Menu</a></span>
+
 
 
        <div class="contenedor0">
@@ -64,9 +65,9 @@
                                <th><H2>El lugar para disfrutar</H2>
                                    <p>Nuestra deliciosa historia</p>
                                    <p>La gente decia  *Haces cosas muy raras* y yo les contestaba *Me dedico a la creatividad*. A veces hemos querido explicar demasiado la cocina de vanguardia cuando quiza es muy difícil de explicar. Hay que vivirla</p><br><br>
-                                   <p> Nos dedicamos a la cocina, al sabor de un buen día reflejado en tu comida…</p>
+                                   <p> Nos dedicamos a la cocina, al sabor de un buen día reflejado en tu comida</p>
                                    <br>
-                                   <button class="btingresar" disabled="disabled"><a href="Registro.html"  style="text-decoration:none">RESERVACION</a></button>
+                                   <button class="btingresar" disabled="disabled"><a href="registro.jsp"  style="text-decoration:none">RESERVAR</a></button>
                                </th>
                            <th><img decoding="async" fetchpriority="high" width="300" height="600" src="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1.jpg" class="attachment-full size-full wp-image-451" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1.jpg 300w, https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1-150x300.jpg 150w" sizes="(max-width: 300px) 100vw, 300px"></th>
                            <th><img decoding="async" loading="lazy" width="300" height="600" src="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2.jpg" class="attachment-full size-full wp-image-454" alt="" srcset="https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2.jpg 300w, https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2-150x300.jpg 150w" sizes="(max-width: 300px) 100vw, 300px"></th>
@@ -243,7 +244,7 @@
      <center> <p>Conoce mas de nosotros en nuestras redes sociales, no te olvides de seguirnos</p>
      <p>Reserva tu mesa, vive tu experiencia, danos tu opinion</p>
       </div>
-		<center><h2>Reservar mesa</h2>			<div class="textwidget"><p><a href="#"><button>Reserrvar</button></a></p>
+		<center><h2>Reservar mesa</h2>			<div class="textwidget"><p><a href="reservarmesa.jsp"><button>Reservar</button></a></p>
       </center>
 </div>
        <center>

@@ -11,17 +11,47 @@
 
 }
 .frase{
+
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 18px;
+
 }
 .imagen1{
-background-image: url(https://citasmedicasmaryury.com/wp-content/uploads/2018/10/banner1-free-img.jpg);
+    background-image: url(https://citasmedicasmaryury.com/wp-content/uploads/2018/10/banner1-free-img.jpg);
     background-position: center left;
     background-repeat: no-repeat;
-    background-size: 200px;
+    width: 200px ;
     height: 400px;
-    color: #FFFFFF;
-    font-size: 28px;
-    text-align: center;
-
+}
+.imagen2{
+    background-image: url(https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-food-1.jpg);
+    background-position: center left;
+    background-repeat: no-repeat;
+    width: 200px ;
+    height: 400px;
+}
+.imagen3{
+    background-image: url(https://citasmedicasmaryury.com/wp-content/uploads/2019/12/barbecue-foods-2.jpg);
+    background-position: center left;
+    background-repeat: no-repeat;
+    width: 200px ;
+    height: 400px;
+}
+.nombre {
+    font-family: Luminari;
+    font-size: 60px;
+    text-align: left;
+}
+.name{
+    font-family: Courier;
+    font-size: 20px;
+    text-align: left;
+}
+.espacio{
+width: 80px ;
+}
+.info{
+     font-family: Bradley Hand;
+     font-size: 15px;
+     text-align: left;
 }
