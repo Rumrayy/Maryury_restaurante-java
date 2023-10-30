@@ -200,7 +200,7 @@
                                 Vanilla / Stawberry  / Chocolate
                                       </th></tr>
 
-
+                              <tr class="espacio"></tr>
 
                               <tr>
                                                       <th class="name">
@@ -238,7 +238,7 @@
 
 
             		</section>
-
+                   <br><br>
             		<footer class="foot" border="1">
                        <div><center><h2><font size=7>Good Chef</h2></font><br>
                         <img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png"  alt="">	</div>
