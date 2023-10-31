@@ -9,14 +9,19 @@
     grid-template-columns: repeat(7, 1fr);
  }
  .calendario{
- text-aling: center;
- width: 600px;
+  text-aling: center;
+  width: 600px;
  }
- .primer-dia{
- grid-column-start: 4;
+ .enlacecalendario:link{
+     color: black;
+     text-aling: center;
+
+ }
+.primerdia{
+ grid-column-start: 3;
  }
 
- /*:::Boton-Modal:::*/
+
  .boton-modal{
      padding: 40px;
      background-color: #fff;
@@ -32,9 +37,7 @@
  .boton-modal label:hover{
      background-color: #185E83;
  }
- /*:::Fin Boton-Modal:::*/
 
- /*:::Ventana Modal:::*/
  #btn-modal{
      display: none;
  }
@@ -91,10 +94,4 @@
      top:0; left: 0;
      z-index: -1;
  }
- @media screen and (max-width:800px) {
-     .content-modal{
-         width: 90%;
-     }
- }
- /*:::Fin Ventana Modal:::*/
 

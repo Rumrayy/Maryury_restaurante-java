@@ -48,9 +48,10 @@
                        </tr>
 
 <!--Boton-->
-    <div class="boton-modal">
-        <label for="btn-modal">
-            RESERVAR
+
+   <!--div class="boton-modal"-->
+        <!--label for="btn-modal"-->
+           <!-- RESERVAR-->
         </label>
     </div>
 <!--Fin de Boton-->
@@ -69,9 +70,22 @@
                 <input type="email" id="mail" name="user_mail" />
               </li>
               <li>
-                <label for="msg">Describa detalles para su reservacion:</label>
-                <textarea id="msg" name="user_message"></textarea>
+                 <label for="time">Hora de reserva:</label>
+                  <input type="ttime" id="time" name="user_time" />
+                   </li>
+              <li>
+                <label for="msg">Cantidad de invitados:</label>
+                <input type="msg" id="msg" name="user_message" />
               </li>
+              <li>
+                <label for="cate">Area del local:</label>
+                <select id="cate" name="user_cat">
+                  <option value="Restaurante">Restaurante</option>
+                  <option value="Bar">Bar</option>
+                </select>
+              </li>
+
+
               <li>
                   <button type="submit">Enviar</button>
               </li>
@@ -89,8 +103,8 @@
 
 
 
-                   <tr><td><div class="calendario" ><h1>Noviembre</h1>
-                   <ol class="calendario">
+                 <tr><td><div class="calendario" ><h1>Noviembre</h1>
+                 <ol class="calendario">
                    <li>Lun</li>
                    <li>Mar</li>
                    <li>Mie</li>
@@ -100,39 +114,40 @@
                    <li>Dom</li>
 
 
-                   <li class='primer-dia'>1</li>
-                   <li>2</li>
-                   <li>3</li>
-                   <li>4</li>
-                   <li>5</li>
-                   <li>6</li>
-                   <li>7</li>
-                   <li>8</li>
-                   <li>9</li>
-                   <li>10</li>
-                   <li>11</li>
-                   <li>12</li>
-                   <li>13</li>
-                   <li>14</li>
-                   <li>15</li>
-                   <li>16</li>
-                   <li>17</li>
-                   <li>18</li>
-                   <li>19</li>
-                   <li>20</li>
-                   <li>21</li>
-                   <li>22</li>
-                   <li>23</li>
-                   <li>24</li>
-                   <li>25</li>
-                   <li>26</li>
-                   <li>27</li>
-                   <li>28</li>
-                   <li>29</li>
-                   <li>30</li>
-                   <li>31</li>
+                   <li class="primerdia"><label for="btn-modal">1</label></li>
+                   <li><label for="btn-modal">2</label></li>
+                   <li><label for="btn-modal">3</label></li>
+                   <li><label for="btn-modal">4</label></li>
+                   <li><label for="btn-modal">5</label></li>
+                   <li><label for="btn-modal">6</label></li>
+                   <li><label for="btn-modal">7</label></li>
+                   <li><label for="btn-modal">8</label></li>
+                   <li><label for="btn-modal">9</label></li>
+                   <li><label for="btn-modal">10</label></li>
+                   <li><label for="btn-modal">11</label></li>
+                   <li><label for="btn-modal">12</label></li>
+                   <li><label for="btn-modal">13</label></li>
+                   <li><label for="btn-modal">14</label></li>
+                   <li><label for="btn-modal">15</label></li>
+                   <li><label for="btn-modal">16</label></li>
+                   <li><label for="btn-modal">17</label></li>
+                   <li><label for="btn-modal">18</label></li>
+                   <li><label for="btn-modal">19</label></li>
+                   <li><label for="btn-modal">20</label></li>
+                   <li><label for="btn-modal">21</label></li>
+                   <li><label for="btn-modal">22</label></li>
+                   <li><label for="btn-modal">23</label></li>
+                   <li><label for="btn-modal">24</label></li>
+                   <li><label for="btn-modal">25</label></li>
+                   <li><label for="btn-modal">26</label></li>
+                   <li><label for="btn-modal">27</label></li>
+                   <li><label for="btn-modal">28</label></li>
+                   <li><label for="btn-modal">29</label></li>
+                   <li><label for="btn-modal">30</label></li>
+                   <li><label for="btn-modal">31</label></li>
 
 
+                   </spam>
                    </ol>
 
                    </div>
@@ -144,7 +159,7 @@
 
 
 
-             <br><br>
+
             	<center>
             			<img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png"  alt="">	</div>
 

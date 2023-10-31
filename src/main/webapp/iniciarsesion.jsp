@@ -51,15 +51,13 @@
                         <label for="name">Nombre de usuario o correo electronico </label><br><br>
                         <input type="text"  id="nameuser" name="nameuser"><br><br>
                         <label for="password">Contraseña </label><br><br>
-                        <input type="password"  id="password" name="password"><br><br>
+                        <input type="password"  id="password" name="password"></tr>
+
+                       <tr> <td>
                      <a href="https://www.facebook.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
-                     <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="WhatsApp" >
 
-
+                     <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="google" >
                         </a>
-
-
-
 
                     <input type="submit" onclick="iniciosesion()" value="Iniciar sesion">
                     <button><a href="Registro.html" class="bnregistro" style="text-decoration:none">Registro</a> </button>
