@@ -1,1 +1,64 @@
+CREATE TABLE cliente (
+    id_cliente SERIAL PRIMARY KEY,
+    nombres VARCHAR(50) NOT NULL,
+    apellidos VARCHAR(50) NOT NULL,
+    correo VARCHAR(250) UNIQUE NOT NULL,
+    numero_telefono VARCHAR(50) UNIQUE NOT NULL,
+    contraseña VARCHAR(250) NOT NULL
+);
 
+CREATE TABLE Menu (
+    PlatoID INT PRIMARY KEY,
+    NombrePlato VARCHAR(100),
+    Descripción varchar(250),
+    Precio DECIMAL(10, 2),
+    CategoríaID INT,
+    FOREIGN KEY (CategoríaID) REFERENCES Categoría(CategoríaID)
+);
+
+CREATE TABLE Categoría (
+    CategoríaID INT PRIMARY KEY,
+    NombreCategoría VARCHAR(50)
+); 
+
+CREATE TABLE Reservaciones (
+    ReservaciónID INT PRIMARY KEY,
+    ClienteID INT,
+    FechaReserva DATE,
+    HoraReserva TIMESTAMP,
+    MesaID INT,
+    FOREIGN KEY (ClienteID) REFERENCES Clientes(ClienteID),
+    FOREIGN KEY (MesaID) REFERENCES Mesas(MesaID)
+);
+CREATE TABLE Mesas (
+    MesaID INT PRIMARY KEY,
+    NombreMesa VARCHAR(50),
+    Capacidad INT
+);
+
+CREATE TABLE Pagos (
+    PagoID INT PRIMARY KEY,
+    ClienteID INT,
+    Monto DECIMAL(10, 2),
+    FechaPago DATE,
+    FOREIGN KEY (ClienteID) REFERENCES Clientes(ClienteID)
+);
+
+CREATE TABLE Facturas (
+    FacturaID INT PRIMARY KEY,
+    ReservaciónID INT,
+    PedidoID INT,
+    FechaEmisión DATE,
+    Total DECIMAL(10, 2),
+    FOREIGN KEY (ReservaciónID) REFERENCES Reservaciones(ReservaciónID),
+    FOREIGN KEY (PedidoID) REFERENCES Pedidos(PedidoID)
+);
+
+CREATE TABLE Pedidos (
+    PedidoID INT PRIMARY KEY,
+    ClienteID INT,
+    PlatoID INT,
+    Cantidad INT,
+    FOREIGN KEY (ClienteID) REFERENCES Clientes(ClienteID),
+    FOREIGN KEY (PlatoID) REFERENCES Menu(PlatoID)
+);
