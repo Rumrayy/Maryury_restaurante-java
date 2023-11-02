@@ -1,5 +1,5 @@
-CREATE TABLE cliente (
-    id_cliente SERIAL PRIMARY KEY,
+CREATE TABLE clientes (
+    cliente_id SERIAL PRIMARY KEY,
     nombres VARCHAR(50) NOT NULL,
     apellidos VARCHAR(50) NOT NULL,
     correo VARCHAR(250) UNIQUE NOT NULL,
@@ -7,33 +7,36 @@ CREATE TABLE cliente (
     contraseña VARCHAR(250) NOT NULL
 );
 
-CREATE TABLE Menu (
-    PlatoID INT PRIMARY KEY,
-    NombrePlato VARCHAR(100),
-    Descripción varchar(250),
-    Precio DECIMAL(10, 2),
-    CategoríaID INT,
-    FOREIGN KEY (CategoríaID) REFERENCES Categoría(CategoríaID)
+CREATE TABLE menu (
+    plato_id INT PRIMARY KEY,
+    nombre_plato VARCHAR(100) NOT NULL,
+    descripción VARCHAR(250) NOT NULL,
+    precio DECIMAL(10, 2) NOT NULL,
+    categoria_id INT,
+    FOREIGN KEY (categoria_id) REFERENCES categoria(categoria_id)
 );
 
-CREATE TABLE Categoría (
-    CategoríaID INT PRIMARY KEY,
-    NombreCategoría VARCHAR(50)
-); 
-
-CREATE TABLE Reservaciones (
-    ReservaciónID INT PRIMARY KEY,
-    ClienteID INT,
-    FechaReserva DATE,
-    HoraReserva TIMESTAMP,
-    MesaID INT,
-    FOREIGN KEY (ClienteID) REFERENCES Clientes(ClienteID),
-    FOREIGN KEY (MesaID) REFERENCES Mesas(MesaID)
+CREATE TABLE categoria (
+    categoria_id INT PRIMARY KEY,
+    nombre_categoria VARCHAR(50) NOT NULL
 );
-CREATE TABLE Mesas (
-    MesaID INT PRIMARY KEY,
-    NombreMesa VARCHAR(50),
-    Capacidad INT
+
+CREATE TABLE reservaciones (
+    reservacion_id INT PRIMARY KEY,
+    cliente_id INT NOT NULL,
+    fecha_reserva DATE NOT NULL,
+    hora_reserva TIME NOT NULL,
+    mesa_id INT NOT NULL,
+    pago_token VARCHAR(255), -- Token proporcionado por la API de pagos
+    transaccion_id VARCHAR(255), -- ID de transacción de la API de pagos
+    estado_pago VARCHAR(50), -- Estado del pago (ejemplo: 'preautorizado', 'completado', 'fallido')
+    FOREIGN KEY (cliente_id) REFERENCES clientes(cliente_id),
+    FOREIGN KEY (mesa_id) REFERENCES mesas(mesa_id)
+);
+CREATE TABLE mesas (
+    mesa_id INT PRIMARY KEY,
+    nombre_mesa VARCHAR(50) NOT NULL,
+    capacidad INT NOT NULL
 );
 
 CREATE TABLE Pagos (
