@@ -39,85 +39,9 @@
     </div>
 
 </header>
-<section>
-<br><div class="imagen">
-   <h2><center>Contactanos</h2>
-</section>
 
 
- <center>
-			<h2><font size=6>¿Tienes hambre?</h2>	</font>	</div>
-            <font size=4>
-			<h4>¡Ven, cena con nosotros!</h4>		</div>
-              <p>Reserva, consulta o pregunta que estamos a la orden</p>						</div>
-
-		</section>
-         <table><td>
-
-			<h3>Reserva una mesa</h3>		</div>
-				</div>
-
-			<h4><a href="#">123 456 7890</a></h4>		</div>
-             </td><td><img width="8" height="100" src="IMG/divisor.jpg" alt="WhatsApp" >
-                                      </td>
-             <td>
-
-			<h3>Orden feliz</h3>
-
-			<h4 ><a href="#">098 765 4321</a></h4>		</div>
-           </td></table>
-		</section>
-
-		</div>
-
-			<h3 >¿Tiene comentarios?</h3>
-				</div>
-
-							<p>Escribenos a nuestro correo electronico por cualquier comentario u observacion que tengas, todas tus ideas o quejas nos ayudan a crecer.</p>						</div>
-       <section><table>
-         <td>
-       <input type="text" placeholder="Nombre" required=""></div><div><br>
-       <input type="email" placeholder="Correo"  required=""></div><div><br>
-       <input type="number" placeholder="Telefono" required=""></div><div><br>
-       <input type="text" placeholder="Motivo" required=""></div><div ><br>
-       <textarea placeholder="Mensaje" required=""></textarea></div><div>
-       <center><button type="submit">Enviar</button></div></form></div></center>
-				</div>
-        </td><td class="espacio"></td><td>
-			 <iframe
-               loading="lazy"
-               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.129080347187!2d-89.54810108463798!3d13.987349990222665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f65f9b68cdcc739%3A0x5f10b4d003b2c3f5!2sSanta%20Ana%2C%20El%20Salvador!5e0!3m2!1sen!2sus!4v1678173568846"
-               title="Santa Ana, El Salvador"
-               aria-label="Santa Ana, El Salvador"
-               width="500"
-               height="400"
-             ></iframe>
-		</td></table></div>
-
-
-                <img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png"  alt="">	</div>
-
-			<h3>HORARIO</h3>		</div>
-				</div>
-
-		</section>
-
-			<h5 >Lunes - Viernes</h5>
-
-
-			<h5>10:00 AM --- 06:00 PM</h5>
-
-			<h2>Hora feliz</h2>		</div>
-				<p>Viernes, 4PM --- 10PM</p>						</div>
-
-		</section>
-            <br><br>
-           	<center>
-           			<img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png"  alt="">	</div>
-
-            </center>
-       <div><br></div>
-  <footer class="foot" border="1">
+ <footer class="foot" border="1">
    <div><center><h2><font size=7>Good Chef</h2></font><br>
     <img decoding="async" width="200" height="35" src="https://citasmedicasmaryury.com/wp-content/uploads/2023/10/divider-free-img-1.png"  alt="">	</div>
       <br>
