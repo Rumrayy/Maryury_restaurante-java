@@ -1,67 +1,49 @@
 CREATE TABLE clientes (
-    cliente_id SERIAL PRIMARY KEY,
-    nombres VARCHAR(50) NOT NULL,
-    apellidos VARCHAR(50) NOT NULL,
-    correo VARCHAR(250) UNIQUE NOT NULL,
-    numero_telefono VARCHAR(50) UNIQUE NOT NULL,
-    contraseña VARCHAR(250) NOT NULL
+    id_cliente NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    nombres VARCHAR2(50) NOT NULL,
+    apellidos VARCHAR2(50) NOT NULL,
+    roll VARCHAR(100) NOT NULL,
+    Email VARCHAR2(100) UNIQUE NOT NULL,
+    telefono VARCHAR2(50) UNIQUE NOT NULL,
+    contrasena VARCHAR2(50) NOT NULL
 );
 
 CREATE TABLE menu (
-    plato_id INT PRIMARY KEY,
-    nombre_plato VARCHAR(100) NOT NULL,
-    descripción VARCHAR(250) NOT NULL,
-    precio DECIMAL(10, 2) NOT NULL,
-    categoria_id INT,
-    FOREIGN KEY (categoria_id) REFERENCES categoria(categoria_id)
+    id_menu NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    nombre_plato VARCHAR2(100),
+    descripcion VARCHAR2(250),
+    precio NUMBER(10, 2)
 );
 
-CREATE TABLE categoria (
-    categoria_id INT PRIMARY KEY,
-    nombre_categoria VARCHAR(50) NOT NULL
+CREATE TABLE reservacion (
+    id_reservacion NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    comentarios VARCHAR2(300),
+    fecha_reservacion DATE,
+    hora_reserva TIMESTAMP,
+    id_mesa NUMBER(10),
+    id_menu NUMBER(10),
+    FOREIGN KEY (id_mesa) REFERENCES mesas(id_mesa),
+    FOREIGN KEY (id_menu) REFERENCES menu(id_menu)
 );
 
-CREATE TABLE reservaciones (
-    reservacion_id INT PRIMARY KEY,
-    cliente_id INT NOT NULL,
-    fecha_reserva DATE NOT NULL,
-    hora_reserva TIME NOT NULL,
-    mesa_id INT NOT NULL,
-    pago_token VARCHAR(255), -- Token proporcionado por la API de pagos
-    transaccion_id VARCHAR(255), -- ID de transacción de la API de pagos
-    estado_pago VARCHAR(50), -- Estado del pago (ejemplo: 'preautorizado', 'completado', 'fallido')
-    FOREIGN KEY (cliente_id) REFERENCES clientes(cliente_id),
-    FOREIGN KEY (mesa_id) REFERENCES mesas(mesa_id)
-);
 CREATE TABLE mesas (
-    mesa_id INT PRIMARY KEY,
-    nombre_mesa VARCHAR(50) NOT NULL,
-    capacidad INT NOT NULL
+    id_mesa NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    nombre_mesa VARCHAR2(50),
+    capacidad NUMBER(10),
+    id_cliente NUMBER(10),
+    FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente)
 );
 
-CREATE TABLE Pagos (
-    PagoID INT PRIMARY KEY,
-    ClienteID INT,
-    Monto DECIMAL(10, 2),
-    FechaPago DATE,
-    FOREIGN KEY (ClienteID) REFERENCES Clientes(ClienteID)
+CREATE TABLE pagos (
+    id_pago NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    monto NUMBER(10, 2),
+    fecha_pago DATE,
+    id_reservacion NUMBER(10),
+    FOREIGN KEY (id_reservacion) REFERENCES reservacion(id_reservacion)
 );
 
-CREATE TABLE Facturas (
-    FacturaID INT PRIMARY KEY,
-    ReservaciónID INT,
-    PedidoID INT,
-    FechaEmisión DATE,
-    Total DECIMAL(10, 2),
-    FOREIGN KEY (ReservaciónID) REFERENCES Reservaciones(ReservaciónID),
-    FOREIGN KEY (PedidoID) REFERENCES Pedidos(PedidoID)
-);
-
-CREATE TABLE Pedidos (
-    PedidoID INT PRIMARY KEY,
-    ClienteID INT,
-    PlatoID INT,
-    Cantidad INT,
-    FOREIGN KEY (ClienteID) REFERENCES Clientes(ClienteID),
-    FOREIGN KEY (PlatoID) REFERENCES Menu(PlatoID)
+CREATE TABLE facturas (
+    id_factura NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    id_pago NUMBER(10),
+    FOREIGN KEY (id_pago) REFERENCES pagos(id_pago)
 );
