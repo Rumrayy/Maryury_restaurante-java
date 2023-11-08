@@ -42,14 +42,14 @@
 
     <br><br><br>
 
-   <section>
+  <section>
         <div class="contenedor1">
             <div class="formulario">
                 <table  height="300" width="300" >
                     <tr ><td>
-                    <form action="">
-                        <label for="name">Nombre de usuario o correo electronico </label><br><br>
-                        <input type="text"  id="nameuser" name="nameuser"><br><br>
+                    <form id="loginForm">
+                        <label for="email"> correo electronico </label><br><br>
+                        <input type="text"  id="email" name="email" autocomplete="email"><br><br>
                         <label for="password">Contraseña </label><br><br>
                         <input type="password"  id="password" name="password"></tr>
 
@@ -59,14 +59,14 @@
                      <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="google" >
                         </a>
 
-                    <input type="submit" onclick="iniciosesion()" value="Iniciar sesion">
+                    <input type="submit" onclick="loginUser()" value="Iniciar sesion">
                     <button><a href="Registro.html" class="bnregistro" style="text-decoration:none">Registro</a> </button>
                     </form>
                 </td></tr>
              </table>
          </div>
    </section>
-   <script src="js/iniciarsesion.js"></script>
+   <script src="javascript/login.js"></script>
 
 
                <br><br>
