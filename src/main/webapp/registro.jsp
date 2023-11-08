@@ -45,24 +45,26 @@
             <div class="formulario">
                 <table height="300" width="300" >
                     <tr ><td>
-                    <form action="">
-                        <label for="name">Nombre de usuario: </label><br><br>
-                        <input type="text"  id="nameuser" name="nameuser"><br><br>
-                        <label for="name">Nombre: </label><br><br>
-                        <input type="text"  id="name" name="name"><br><br>
-                        <label for="name">Apellido: </label><br><br>
-                        <input type="text"  id="lastname" name="lastname"><br><br>
-                        <label for="address">Direccion de correo electronico: </label><br><br>
-                        <input type="email"  id="address" name="address"><br><br>
-                        <label for="password">Contraseña: </label><br><br>
-                        <input type="password"  id="password" name="password"><br><br>
-                        <label for="password">Confirmar contraseña: </label><br><br>
-                        <input type="password"  id="passwordconfirm" name="passwordconfirm"><br><br>
+                    <form method="post" >
+                         <label for="name">Nombre: </label><br><br>
+                            <input type="text" id="name" name="name"><br><br>
+
+                            <label for="lastname">Apellido: </label><br><br>
+                            <input type="text" id="lastname" name="lastname"><br><br>
+
+                            <label for="email">Correo electrónico: </label><br><br>
+                            <input type="email" id="email" name="email"><br><br>
+
+                            <label for="cellphone">Número de teléfono: </label><br><br>
+                            <input type="tel" id="cellphone" name="cellphone"><br><br>
+
+                            <label for="password">Contraseña: </label><br><br>
+                            <input type="password" id="password" name="password"><br><br>
                         <a href="https://www.facebook.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
 
                          <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="google" >
 
-                    <input type="submit" onclick="registrase()" value="Registrar">
+                    <input type="submit" onclick="registrarse(event)" value="Registrar">
                     <button><a href="iniciarsesion.html" class="btinicio" style="text-decoration:none">iniciar sesion</a> </button>
                    <!<input type="submit" onclick="inicio()" value="Inisiar sesion">
                     </form>
@@ -73,7 +75,7 @@
          </div>
 
    </section>
-   <script src="js/registro.js"></script>
+   <script src="javascript/registro.js"></script>
 
               <br><br>
              	<center>
