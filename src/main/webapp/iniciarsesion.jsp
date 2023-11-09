@@ -46,8 +46,10 @@
         <div class="contenedor1">
             <div class="formulario">
                 <table  height="300" width="300" >
-                    <tr ><td>
-                    <form id="loginForm">
+                                    <tr ><td>
+                                   <img width="200" height="150" src="IMG/registro.png" alt="">
+                                    <form id="loginForm">
+
                         <label for="email"> correo electronico </label><br><br>
                         <input type="text"  id="email" name="email" autocomplete="email"><br><br>
                         <label for="password">Contraseña </label><br><br>

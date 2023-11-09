@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="CSS/header.css">
-    <link rel="stylesheet" href="CSS/contacto.css">
+    <link rel="stylesheet" href="CSS/usuario.css">
     <link rel="stylesheet" href="CSS/footer.css">
     <title>Restaurante</title>
 </head>
@@ -37,8 +37,65 @@
         </table>
 
     </div>
-
 </header>
+<section>
+		<h1 >Maryury Ramos</h1> <div>
+                                      <button><label for="btn-modal">
+                                          <img width="50" height="50" src="IMG/confi.png" alt="Configuración">
+                                      </button></label>
+
+                                 </div>
+			<div><center>
+			<img decoding="async" alt="" src="https://lh3.googleusercontent.com/a/ACg8ocLLGWQHqs5klm6ep-MjKDrAJxyBgXBipCJVpfk5M5z-iZM=s96-c?sz=50" class="avatar avatar-190 " height="190" width="190" style="height:190px;width:190px">			</a>
+
+		</div>
+
+
+
+        <!--Ventana Modal-->
+            <input type="checkbox" id="btn-modal">
+            <div class="container-modal">
+                <div class="content-modal">
+                  <form action="/my-handling-form-page" method="post">
+                    <ul>
+                      <li>
+                        <a href="" >Editar el perfil</a>
+                      </li>
+                      <li>
+                        <a href="" >Editar reservacion</a>
+                      </li>
+                      <li>
+                         <a href="reservarmesa.jsp">Nueva reservacion</a>
+                           </li>
+                      <li>
+                        <a href="">Salir</a>
+                      </li>
+
+                      </div></form></ul>  </select>
+                  </div>
+<!--Fin de Ventana Modal-->
+
+        <label>Maryury Ramos</label>
+
+				<span>
+					El estado de la cuenta de este usuario es Aprobado				</span>
+			</div>
+
+		</div>
+		<div ></div>
+
+
+	</div>
+	<div class="tabla"><center>
+    <table  height="300" width="300" >
+                       <tr ><td>
+                       <img width="200" height="150" src="IMG/registro.png" alt="">
+                       </tr><td>
+      </div>
+    </table>
+
+</section>
+
 
 
  <footer class="foot" border="1">
