@@ -64,7 +64,7 @@
 
                          <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="google" >
 
-                    <input type="submit" onclick="registrarse(event)" value="Registrar">
+                    <input type="submit" value="Registrar">
                     <button><a href="iniciarsesion.html" class="btinicio" style="text-decoration:none">iniciar sesion</a> </button>
                    <!<input type="submit" onclick="inicio()" value="Inisiar sesion">
                     </form>
