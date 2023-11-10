@@ -42,16 +42,14 @@
 
     <br><br><br>
 
-  <section>
+ <section>
         <div class="contenedor1">
             <div class="formulario">
                 <table  height="300" width="300" >
-                                    <tr ><td>
-                                   <img width="200" height="150" src="IMG/registro.png" alt="">
-                                    <form id="loginForm">
-
+                    <tr ><td>
+                    <form id="loginForm" onsubmit="event.preventDefault(); loginUser();">
                         <label for="email"> correo electronico </label><br><br>
-                        <input type="text"  id="email" name="email" autocomplete="email"><br><br>
+                        <input type="email"  id="email" name="email" autocomplete="email"><br><br>
                         <label for="password">Contraseña </label><br><br>
                         <input type="password"  id="password" name="password"></tr>
 
@@ -61,7 +59,7 @@
                      <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="google" >
                         </a>
 
-                    <input type="submit" onclick="loginUser()" value="Iniciar sesion">
+                    <input type="submit"  value="Iniciar sesion">
                     <button><a href="Registro.html" class="bnregistro" style="text-decoration:none">Registro</a> </button>
                     </form>
                 </td></tr>
