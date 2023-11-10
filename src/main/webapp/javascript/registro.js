@@ -18,9 +18,10 @@ function registrarse(event) {
     },
     body: JSON.stringify(data)  // Convertir los datos a una cadena JSON
   })
-  .then(response => response.json())  // Convertir la respuesta a JSON
+  .then(response => response.json())
   .then(data => {
     console.log('Success:', data);
+    window.location.href = 'reservarmesa.jsp'; // Redirigir aquí
   })
   .catch((error) => {
     console.error('Error:', error);
