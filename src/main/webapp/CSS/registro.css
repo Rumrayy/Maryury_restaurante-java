@@ -1,18 +1,140 @@
-.contenedor1{
-    background-color: aliceblue;
+.container-form{
     display: flex;
-    justify-content: center;
-    height: 550px;
-    margin: 0 235px;
-    padding: 25;
+    border-radius: 20px;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, .1);
+    height: 500px;
+    max-width: 900px;
+    transition: all 1s ease;
+
 }
-.formulario{
-    margin: auto 50px;
-    text-align: center;
+.information{
+   width: 40%;
+   color: #ffffff;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   background-image: linear-gradient(rgba(0,0,0,0), rgba(1,1,1,1.9)), url(https://img.freepik.com/fotos-premium/chef-prepara-plato-carne-verduras_14117-11055.jpg?w=740);
+   background-size: cover;
+   background-position: center;
+   border-top-left-radius: 20px;
+   border-bottom-left-radius: 20px;
 }
-.btinicio:link{
-    color: black;
+.info-childs{
+    width: 100%;
+    padding: 0 30px;
 }
-.btinicio:visited{
-    color: black;
+.info-childs h2 {
+   font-size: 2.5rem;
+}
+.info-childs p {
+    margin: 15px 0;
+}
+.info-childs input{
+     background-color: transparent;
+     outline: none;
+     border: solid 3px #FFD23E;
+     border-radius: 20px;
+     padding:10px 20px;
+     cursor: pointer;
+     transition: background-color .3s ease;
+     text-decoration: none;
+     color: white;
+}
+.info-childs a{
+      text-decoration: none;
+      color: white;
+}
+.info-childs input:hover{
+     background-color: #FFD23E;
+     border: none;
+     color: #fff;
+     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+}
+.form-information{
+     display: flex;
+     align-items: center;
+     width: 60%;
+     text-align: center;
+}
+.form-information-childs{
+     padding: 0 30px;
+}
+.form-information-childs h2{
+     font-size: 2rem;
+     color: #FFD23E;
+}
+.icons{
+      margin: 15px 0;
+}
+.icons a{
+     border-radius: 50%;
+     padding: 15px;
+     cursor: pointer;
+     margin: 0 10px;
+     border: solid thin #FFD23E;
+     transition: background-color 0.3s ease;
+     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+     color: black;
+}
+.icons a:hover{
+     background-color:#FFD23E;
+     color:  #261e1e;
+}
+.regis{
+    margin: 30px 0 0 0;
+}
+.regis label{
+    display: flex;
+    align-items: center;
+    margin-bottom:15px;
+    border-radius:20px;
+    padding: 0 10px;
+    border: solid thin #FFD23E;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+}
+.regis label input {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
+.buton{
+   background-color: #FFD23E;
+   color: white;
+   border-radius: 20px;
+   border: none;
+   padding: 10px 15px;
+   cursor: pointer;
+   margin-top: 10px;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+}
+.buton:hover{
+   background-color: #261e1e;
+   color: white;
+}
+.information2{
+   width: 40%;
+   color: #ffffff;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   background-image: linear-gradient(rgba(0,0,0,0), rgba(1,1,1,1.9)), url(https://cdn.visafranchise.com/wp-content/uploads/2022/11/02155715/chef2-1-e1667404669200.webp);
+   background-size: cover;
+   background-position: center;
+   border-top-left-radius: 20px;
+   border-bottom-left-radius: 20px;
+}
+.hide{
+   position: absolute;
+   transform: translateY(-300%);
+}
+
+
+*responsi*/
+@media screen and (max-width:750px{
+    html{
+       font-size:12px;
+    }
 }

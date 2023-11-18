@@ -28,11 +28,10 @@
                 <th><a href="index.jsp" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
                 <th><a href="menu.jsp"class="enlaceheader"style="text-decoration:none">Menu</a></th>
                 <th><a href="contacto.jsp"class="enlaceheader"style="text-decoration:none">Contacto</a></th>
-                <th><a href="registro.jsp"class="enlaceheader"style="text-decoration:none">Registro</a></th>
-                <th><a href="iniciarsesion.jsp" class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
+                <th><a href="registro.jsp"class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
                 <th><a href="reservarmesa.jsp" class="enlaceheader"style="text-decoration:none">Resevar mesa</a></th>
                 <th><a href="usuario.jsp" class="enlaceheader"style="text-decoration:none">Usuario</a></th>
-                                  </tr>
+                      </tr>
             <br><br><br>
         </table>
 

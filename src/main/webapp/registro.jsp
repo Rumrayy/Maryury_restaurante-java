@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="CSS/header.css">
-    <link rel="stylesheet" href="CSS/index.css">
+    <link rel="stylesheet" href="CSS/registro.css">
     <link rel="stylesheet" href="CSS/footer.css">
     <title>Restaurante</title>
 </head>
@@ -27,11 +31,10 @@
                 <th><a href="index.jsp" class="enlaceheader" style="text-decoration:none">Inicio</a></th>
                 <th><a href="menu.jsp"class="enlaceheader"style="text-decoration:none">Menu</a></th>
                 <th><a href="contacto.jsp"class="enlaceheader"style="text-decoration:none">Contacto</a></th>
-                <th><a href="registro.jsp"class="enlaceheader"style="text-decoration:none">Registro</a></th>
-                <th><a href="iniciarsesion.jsp" class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
+                <th><a href="registro.jsp"class="enlaceheader"style="text-decoration:none">Inicio sesion</a></th>
                 <th><a href="reservarmesa.jsp" class="enlaceheader"style="text-decoration:none">Resevar mesa</a></th>
-                <th><a href="https://citasmedicasmaryury.com/wp-admin/admin.php?page=simply-schedule-appointments#/ssa/appointments" class="enlaceheader"style="text-decoration:none">RESERVACIONES</a></th>
-            </tr>
+                <th><a href="usuario.jsp" class="enlaceheader"style="text-decoration:none">Usuario</a></th>
+                                 </tr>
             <br><br><br>
         </table>
 
@@ -40,42 +43,64 @@
 </header>
     <br><br><br>
 
-    <section>
-        <div class="contenedor1">
-            <div class="formulario">
-                <table height="300" width="300" >
-                    <tr ><td>
-                    <form method="post" >
-                         <label for="name">Nombre: </label><br><br>
-                            <input type="text" id="name" name="name"><br><br>
+    <section><center>
+        <div class="container-form register">
+           <div class="information" >
 
-                            <label for="lastname">Apellido: </label><br><br>
-                            <input type="text" id="lastname" name="lastname"><br><br>
+               <div class="info-childs">
+                   <h2>Bienvenidos</h2>
+                   <p>Para unirte a nuestra comunidad por favor Inicia sesion con tus datos</p>
+                   <input type="button" value="Iniciar Sesion" id="sign-in"></input>
+                   </div> </div>
+                      <div class="form-information">
+                        <div class="form-information-childs">
+                          <h2>Crear una cuenta</h2>
+                           <div class="icons">
+                           <a href="https://accounts.google.com/ServiceLogin"><i class='bx bxl-google'></a></i>
+                           <a href="https://www.facebook.com/"><i class='bx bxl-facebook-circle'></a></i>
+                        <p><br>o usa tu email para registrarte</p>
+                         <form class="regis"><label>
+                         <i class='bx bx-user' ></i>
+                         <input type="text" placeholder="Nombre Completo">
+                         </label><label>
+                         <i class='bx bx-envelope'></i>
+                         <input type="email" placeholder="Correo Electronico">
+                         </label><label>
+                         <i class='bx bx-phone'></i>
+                         <input type="tel" placeholder="Numero Telefonico">
+                         </label><label>
+                          <i class='bx bx-lock-alt' ></i>
+                          <input type="password" placeholder="Contraseña">
+                               </form> </label></div>
+                          <input class="buton" type="submit" value="Registrarse">
+   </section></center>
+   <section><center>
+           <div class="container-form login hide">
+              <div class="information2" >
 
-                            <label for="email">Correo electrónico: </label><br><br>
-                            <input type="email" id="email" name="email"><br><br>
+                  <div class="info-childs">
+                      <h2>Regresaste!!</h2>
+                      <p>Si aun no tienes una cuenta por favor registrese aqui</p>
+                      <input type="button" value="Registrarse" id="sign-up"></input>
+                     </div> </div>
+                         <div class="form-information">
+                           <div class="form-information-childs">
+                             <h2>Crear una cuenta</h2>
+                              <div class="icons">
+                              <a href="https://accounts.google.com/ServiceLogin"><i class='bx bxl-google'></a></i>
+                              <a href="https://www.facebook.com/"><i class='bx bxl-facebook-circle'></a></i>
+                           <p><br>o inicia sesion con tu cuenta</p>
+                            <form class="regis"><label>
+                            <i class='bx bx-envelope'></i>
+                            <input type="email" placeholder="Correo Electronico">
+                            </label><label>
+                             <i class='bx bx-lock-alt' ></i>
+                             <input type="password" placeholder="Contraseña">
+                                   </label></div>
+                             <input class="buton" type="submit" value="Iniciar Sesion">
+      </section>
 
-                            <label for="cellphone">Número de teléfono: </label><br><br>
-                            <input type="tel" id="cellphone" name="cellphone"><br><br>
-
-                            <label for="password">Contraseña: </label><br><br>
-                            <input type="password" id="password" name="password"><br><br>
-                        <a href="https://www.facebook.com/"><svg width="200" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
-
-                         <a href="https://accounts.google.com/ServiceLogin"><img width="40" height="35" src="IMG/google.png" alt="google" >
-
-                    <input type="submit" value="Registrar">
-                    <button><a href="iniciarsesion.html" class="btinicio" style="text-decoration:none">iniciar sesion</a> </button>
-                   <!<input type="submit" onclick="inicio()" value="Inisiar sesion">
-                    </form>
-
-                </td></tr>
-             </table>
-
-         </div>
-
-   </section>
-   <script src="javascript/registro.js"></script>
+<script src="javascript/registro.js"></script>
 
               <br><br>
              	<center>
@@ -91,7 +116,7 @@
        <center> <p>Conoce mas de nosotros en nuestras redes sociales, no te olvides de seguirnos</p>
        <p>Reserva tu mesa, vive tu experiencia, danos tu opinion</p>
         </div>
-  		<center><h2>Reservar mesa</h2>			<div class="textwidget"><p><a href="#"><button>Reserrvar</button></a></p>
+  		<center><h2>Reservar mesa</h2>			<div class="textwidget"><p><a href="#"><button>Reservar</button></a></p>
         </center>
   </div>
          <center>
