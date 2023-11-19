@@ -1,49 +1,40 @@
 CREATE TABLE clientes (
-    id_cliente NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    nombre_completo VARCHAR2(50) NOT NULL,
-    roll VARCHAR(100) NOT NULL,
-    Email VARCHAR2(100) UNIQUE NOT NULL,
-    telefono VARCHAR2(50) UNIQUE NOT NULL,
-    contrasena VARCHAR2(50) NOT NULL
-);
-
-CREATE TABLE menu (
-    id_menu NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    nombre_plato VARCHAR2(100),
-    descripcion VARCHAR2(250),
-    precio NUMBER(10, 2)
-);
-
-CREATE TABLE reservacion (
-    id_reservacion NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    comentarios VARCHAR2(300),
-    fecha_reservacion DATE,
-    hora_reserva TIMESTAMP,
-    id_mesa NUMBER(10),
-    id_menu NUMBER(10),
-    id_pago NUMBER(10)
-    FOREIGN KEY (id_mesa) REFERENCES mesas(id_mesa),
-    FOREIGN KEY (id_menu) REFERENCES menu(id_menu),
-    FOREIGN KEY (id_pago) REFERENCES pagos(id_pago)
-
+    cliente_id INT AUTO_INCREMENT PRIMARY KEY,
+    nombres VARCHAR(50) NOT NULL,
+    rol VARCHAR(100) NOT NULL,
+    correo VARCHAR(250) UNIQUE NOT NULL,
+    numero_telefono VARCHAR(50) UNIQUE NOT NULL,
+    contrasena VARCHAR(250) NOT NULL
 );
 
 CREATE TABLE mesas (
-    id_mesa NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    nombre_mesa VARCHAR2(50),
-    capacidad NUMBER(10),
-    id_cliente NUMBER(10),
-    FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente)
+    id_mesa INT AUTO_INCREMENT PRIMARY KEY,
+    area VARCHAR(50),
+    numero_mesa INT,
+    capacidad INT
 );
 
 CREATE TABLE pagos (
-    id_pago NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    monto NUMBER(10, 2),
+    id_pago INT AUTO_INCREMENT PRIMARY KEY,
+    monto DECIMAL(10, 2),
     fecha_pago DATE
 );
 
+CREATE TABLE reservacion (
+    id_reservacion INT AUTO_INCREMENT PRIMARY KEY,
+    id_cliente INT,
+    area VARCHAR(300),
+    fecha_reservacion DATE,
+    hora_reserva DATETIME,
+    id_mesa INT,
+    id_pago INT,
+    FOREIGN KEY (id_pago) REFERENCES pagos(id_pago),
+    FOREIGN KEY (id_mesa) REFERENCES mesas(id_mesa),
+    FOREIGN KEY (id_cliente) REFERENCES clientes(cliente_id)
+);
+
 CREATE TABLE facturas (
-    id_factura NUMBER(10) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    id_pago NUMBER(10),
+    id_factura INT AUTO_INCREMENT PRIMARY KEY,
+    id_pago INT,
     FOREIGN KEY (id_pago) REFERENCES pagos(id_pago)
 );
