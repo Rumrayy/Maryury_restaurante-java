@@ -1,5 +1,5 @@
 CREATE TABLE clientes (
-    cliente_id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    id_cliente INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     nombres VARCHAR(50) NOT NULL,
     rol VARCHAR(100) NOT NULL,
     correo VARCHAR(250) UNIQUE NOT NULL,
@@ -30,7 +30,7 @@ CREATE TABLE reservacion (
     id_pago INT,
     FOREIGN KEY (id_pago) REFERENCES pagos(id_pago),
     FOREIGN KEY (id_mesa) REFERENCES mesas(id_mesa),
-    FOREIGN KEY (id_cliente) REFERENCES clientes(cliente_id)
+    FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente)
 );
 
 CREATE TABLE facturas (
