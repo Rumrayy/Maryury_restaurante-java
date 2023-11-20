@@ -7,6 +7,22 @@ CREATE TABLE clientes (
     contrasena VARCHAR(250) NOT NULL
 );
 
+INSERT INTO clientes (nombres, rol, correo, numero_telefono, contrasena)
+VALUES
+    ('Juan Pérez', 'Cliente VIP', 'juan.perez@email.com', '7123-1234', 'JP123');
+    INSERT INTO clientes (nombres, rol, correo, numero_telefono, contrasena)
+VALUES
+    ('María Gómez', 'Cliente Regular', 'maria.gomez@email.com', '7333-5678', 'MG456');
+    INSERT INTO clientes (nombres, rol, correo, numero_telefono, contrasena)
+VALUES
+    ('Carlos Rodríguez', 'Cliente VIP', 'carlos.rodriguez@email.com', '7466-9876', 'CR789');
+    INSERT INTO clientes (nombres, rol, correo, numero_telefono, contrasena)
+VALUES
+    ('Ana Martínez', 'Cliente Regular', 'ana.martinez@email.com', '7899-4321', 'AM012');
+    INSERT INTO clientes (nombres, rol, correo, numero_telefono, contrasena)
+VALUES
+    ('Luisa Vargas', 'Cliente VIP', 'luisa.vargas@email.com', '7766-8765', 'LV345');
+
 CREATE TABLE mesas (
     id_mesa INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     area VARCHAR(50),
@@ -14,18 +30,43 @@ CREATE TABLE mesas (
     capacidad INT
 );
 
+-- Insertar datos en la tabla mesas
+INSERT INTO mesas (area, numero_mesa, capacidad) VALUES 
+('Área Principal', 1, 4);
+INSERT INTO mesas (area, numero_mesa, capacidad) VALUES 
+('Área VIP', 2, 6);
+INSERT INTO mesas (area, numero_mesa, capacidad) VALUES 
+('Área Principal', 3, 4);
+INSERT INTO mesas (area, numero_mesa, capacidad) VALUES 
+('Área de Ventana', 4, 2);
+INSERT INTO mesas (area, numero_mesa, capacidad) VALUES 
+('Área VIP', 5, 6);
+
+
 CREATE TABLE pagos (
     id_pago INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     monto DECIMAL(10, 2),
     fecha_pago DATE
 );
 
+-- Insertar datos en la tabla pagos
+INSERT INTO pagos (monto, fecha_pago) VALUES 
+(100.50, TO_DATE('2023-01-15', 'YYYY-MM-DD'));
+INSERT INTO pagos (monto, fecha_pago) VALUES 
+(75.25, TO_DATE('2023-02-20', 'YYYY-MM-DD'));
+INSERT INTO pagos (monto, fecha_pago) VALUES 
+(120.75, TO_DATE('2023-03-10', 'YYYY-MM-DD'));
+INSERT INTO pagos (monto, fecha_pago) VALUES 
+(50.00, TO_DATE('2023-04-05', 'YYYY-MM-DD'));
+INSERT INTO pagos (monto, fecha_pago) VALUES 
+(90.80, TO_DATE('2023-05-12', 'YYYY-MM-DD'));
+
 CREATE TABLE reservacion (
     id_reservacion INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     id_cliente INT,
     area VARCHAR(300),
     fecha_reservacion DATE,
-    hora_reserva DATETIME,
+    hora_reserva TIMESTAMP,
     id_mesa INT,
     id_pago INT,
     FOREIGN KEY (id_pago) REFERENCES pagos(id_pago),
@@ -33,8 +74,32 @@ CREATE TABLE reservacion (
     FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente)
 );
 
+-- Insertar un valor existente en la tabla clientes
+INSERT INTO reservacion (id_cliente, area, fecha_reservacion, hora_reserva, id_mesa, id_pago) VALUES 
+(1, 'Área Principal', TO_DATE('2023-05-25', 'YYYY-MM-DD'), TO_TIMESTAMP('19:15:00', 'HH24:MI:SS'), 3, 6);
+INSERT INTO reservacion (id_cliente, area, fecha_reservacion, hora_reserva, id_mesa, id_pago) VALUES 
+(1, 'Área Principal', TO_DATE('2023-05-25', 'YYYY-MM-DD'), TO_TIMESTAMP('19:15:00', 'HH24:MI:SS'), 4, 7);
+INSERT INTO reservacion (id_cliente, area, fecha_reservacion, hora_reserva, id_mesa, id_pago) VALUES 
+(2, 'Área VIP', TO_DATE('2023-05-26', 'YYYY-MM-DD'), TO_TIMESTAMP('20:30:00', 'HH24:MI:SS'), 2, 8);
+INSERT INTO reservacion (id_cliente, area, fecha_reservacion, hora_reserva, id_mesa, id_pago) VALUES 
+(3, 'Área Principal', TO_DATE('2023-05-27', 'YYYY-MM-DD'), TO_TIMESTAMP('18:45:00', 'HH24:MI:SS'), 1, 9);
+INSERT INTO reservacion (id_cliente, area, fecha_reservacion, hora_reserva, id_mesa, id_pago) VALUES 
+(4, 'Área de Ventana', TO_DATE('2023-05-28', 'YYYY-MM-DD'), TO_TIMESTAMP('17:00:00', 'HH24:MI:SS'), 5, 10);
+
+
 CREATE TABLE facturas (
     id_factura INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     id_pago INT,
     FOREIGN KEY (id_pago) REFERENCES pagos(id_pago)
 );
+
+INSERT INTO facturas (id_pago) VALUES 
+(6);
+INSERT INTO facturas (id_pago) VALUES 
+(7);
+INSERT INTO facturas (id_pago) VALUES 
+(8);
+INSERT INTO facturas (id_pago) VALUES 
+(9);
+INSERT INTO facturas (id_pago) VALUES 
+(10);
